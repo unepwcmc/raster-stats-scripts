@@ -14,6 +14,7 @@ def parse(args)
   options.raster_ids = [1] # carbon
   options.operation = "count"
   options.country = nil
+  options.pp = true
   
   opt_parser = OptionParser.new do |opts|
     opts.banner = "Usage: get_raster_stats.rb [options]"

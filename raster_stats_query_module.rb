@@ -24,13 +24,12 @@ module Raster_stats_query_module
       begin
         res = Net::HTTP.get_response(uri)
       rescue  Exception => e  
-        pp options.country, e.message
+        pp(options.country, e.message) if @options.pp
       end
-      #puts res.body if res.is_a?(Net::HTTPSuccess)
       begin
         JSON.parse(res.body, :symbolize_names => true)
       rescue
-        pp "Error for #{options.country}"
+        pp("Error for #{options.country}") if @options.pp
         nil
       end
     end
@@ -59,7 +58,8 @@ module Raster_stats_query_module
       unless @options_clone.operation == "percentage"
         @options_clone.raster_id = @options.raster_ids[0]
         if @options_clone.country
-          pp execute_query @options_clone
+          response = execute_query @options_clone
+          pp(response) if @options.pp
         else
           @iso2_codes.each do |feature|
             @options_clone.country = feature[:alpha_2]
@@ -69,7 +69,7 @@ module Raster_stats_query_module
               @all_countries_accumulator << res
             end
           end
-          pp @all_countries_accumulator
+          pp(@all_countries_accumulator) if @options.pp
         end
       else
         # Relying on a few assumptions here:
@@ -77,13 +77,14 @@ module Raster_stats_query_module
         # the rasters should all have values 1 or 0...
         @options.operation = "sum"
         if @options.country
-          pp get_percentage_object_list @options
+          response = get_percentage_object_list @options
+          pp(response) if @options.pp
         else
           @iso2_codes.each do |feature|
             @all_countries_accumulator << get_percentage_object_list(
               @options)
           end
-          pp @all_countries_accumulator
+          pp(@all_countries_accumulator) if @options.pp
         end
       end
     end
