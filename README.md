@@ -1,4 +1,4 @@
-### Simple country based query utilities for the [raster-stats](https://github.com/unepwcmc/raster-stats) application.
+### Simple country based query utilities for [raster-stats](https://github.com/unepwcmc/raster-stats).
 
 Use it as a module in other ruby code:
 
