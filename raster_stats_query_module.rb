@@ -14,7 +14,6 @@ module Raster_stats_query_module
       @all_countries_accumulator = []
       json = File.read('iso2_codes.json')
       @iso2_codes = JSON.parse(json, :symbolize_names => true)
-      @start_queries
     end
 
     def execute_query options
@@ -35,7 +34,7 @@ module Raster_stats_query_module
         nil
       end
     end
-    
+
     def get_percentage_object_list options
       percentage_object_list = []
       opt = options.clone
@@ -60,11 +59,11 @@ module Raster_stats_query_module
       unless @options_clone.operation == "percentage"
         @options_clone.raster_id = @options.raster_ids[0]
         if @options_clone.country
-          pp execute_query opt
+          pp execute_query @options_clone
         else
           @iso2_codes.each do |feature|
             @options_clone.country = feature[:alpha_2]
-            res = execute_query opt
+            res = execute_query @options_clone
             if res
               res[:iso2] = @options_clone.country
               @all_countries_accumulator << res
