@@ -12,5 +12,9 @@ or directly in a shell:
 ruby get_raster_stats.rb --help
 
 # To get results for all countries on restoration potential:
+# 8  = mosaic
+# 9  = wide scale
+# 10 = remote
+# 11 = no value
 ruby get_raster_stats.rb -o percentage -i 6,7,8,9,11
 ```
