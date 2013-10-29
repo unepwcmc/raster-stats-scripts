@@ -4,6 +4,7 @@ require 'net/http'
 require 'optparse'
 require 'json'
 require 'pp'
+ 
 
 module Raster_stats_query_module
 
@@ -21,6 +22,7 @@ module Raster_stats_query_module
                 "operations/#{ options.operation }")
       params = { :iso2 => options.country }
       uri.query = URI.encode_www_form(params)
+      pp("#{uri.host}:#{uri.port}#{uri.request_uri}") if @options.pp
       begin
         res = Net::HTTP.get_response(uri)
       rescue  Exception => e  
@@ -76,11 +78,13 @@ module Raster_stats_query_module
         # a percentage calculation expects a list of rasters...
         # the rasters should all have values 1 or 0...
         @options.operation = "sum"
+        #@options_clone.operation = "sum"
         if @options.country
           response = get_percentage_object_list @options
           pp(response) if @options.pp
         else
           @iso2_codes.each do |feature|
+            @options.country = feature[:alpha_2]
             @all_countries_accumulator << get_percentage_object_list(
               @options)
           end
