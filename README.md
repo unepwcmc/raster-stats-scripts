@@ -10,5 +10,7 @@ or directly in a shell:
 
 ```sh
 ruby get_raster_stats.rb --help
-ruby get_raster_stats.rb -o sum -c MG -i 1,2,3,4 -o percentage -u http://10.1.1.121:3000/
+
+# To get results for all countries on restoration potential:
+ruby get_raster_stats.rb -o percentage -i 6,7,8,9,11
 ```
