@@ -18,4 +18,15 @@ ruby get_raster_stats.rb --help
 # 9  = agricultural
 # 11 = no value
 ruby get_raster_stats.rb -o percentage -i 6,7,8,9,11
+
+# To write the results for all countries on forests to a forests.JSON file:
+# 10 = fragmented forest
+# 12 = intact forest
+# 13 = partly deforested
+# 14 = deforested
+# 15 = no value
+ruby get_raster_stats.rb -o percentage -i 10,12,13,14,15 -f forests
 ```
+
+
+
