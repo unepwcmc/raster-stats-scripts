@@ -22,16 +22,16 @@ module Raster_stats_query_module
                 "operations/#{ options.operation }")
       params = { :iso2 => options.country }
       uri.query = URI.encode_www_form(params)
-      pp("#{uri.host}:#{uri.port}#{uri.request_uri}") if @options.pp
+      pp("#{uri.host}:#{uri.port}#{uri.request_uri}") if @options.log
       begin
         res = Net::HTTP.get_response(uri)
       rescue  Exception => e  
-        pp(options.country, e.message) if @options.pp
+        pp(options.country, e.message) if @options.log
       end
       begin
         JSON.parse(res.body, :symbolize_names => true)
       rescue
-        pp("Error for #{options.country}") if @options.pp
+        pp("Error for #{options.country}") if @options.log
         nil
       end
     end
@@ -51,12 +51,18 @@ module Raster_stats_query_module
       tot = 0
       percentage_object_list.each{|obj| tot += obj[:value]}
       percentage_object_list.each{|obj| 
-        obj[:percentage] = obj[:value] / tot * 100
+        obj[:percentage] = (obj[:value] / tot * 100)
+        if obj[:percentage].nan?
+          obj[:percentage] = -999
+        else
+          obj[:percentage] = obj[:percentage].round(2)
+        end
       }
       percentage_object_list
     end
 
     def start_queries
+      response = nil
       unless @options_clone.operation == "percentage"
         @options_clone.raster_id = @options.raster_ids[0]
         if @options_clone.country
@@ -71,7 +77,8 @@ module Raster_stats_query_module
               @all_countries_accumulator << res
             end
           end
-          pp(@all_countries_accumulator) if @options.pp
+          response = @all_countries_accumulator
+          pp(response) if @options.pp
         end
       else
         # Relying on a few assumptions here:
@@ -88,9 +95,11 @@ module Raster_stats_query_module
             @all_countries_accumulator << get_percentage_object_list(
               @options)
           end
-          pp(@all_countries_accumulator) if @options.pp
+          response = @all_countries_accumulator
+          pp(response) if @options.pp
         end
       end
+      response
     end
 
   end

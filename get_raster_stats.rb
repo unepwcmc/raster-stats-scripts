@@ -14,7 +14,9 @@ def parse(args)
   options.raster_ids = [1] # carbon
   options.operation = "count"
   options.country = nil
+  options.file = nil
   options.pp = true
+  options.log = true
   
   opt_parser = OptionParser.new do |opts|
     opts.banner = "Usage: get_raster_stats.rb [options]"
@@ -44,15 +46,27 @@ def parse(args)
             "  if omitted it calculates stats for all countries") do |country|
       options.country = country || nil
     end
+    opts.on("-f", "--file [STRING]", String, 
+            "Filename where to export results (optional)",
+            "  if omitted results are printed to standard output") do |file|
+      options.file = file || nil
+    end
   end
   opt_parser.parse!(args)
   options
 end
 
 options = parse(ARGV)
+options.pp = false if options[:file]
 
 q = Raster_stats_query_module::Q.new(options)
-q.start_queries
+result = q.start_queries
+
+if options[:file]
+  File.open("#{options[:file]}.json","w") do |f|
+    f.write(result.to_json)
+  end
+end
 
 
 
