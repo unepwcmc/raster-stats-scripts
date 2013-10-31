@@ -20,7 +20,7 @@ module Raster_stats_query_module
     def execute_query options
       uri = URI("#{ options.url_root }rasters/#{ options.raster_id }/" + 
                 "operations/#{ options.operation }")
-      params = { :iso2 => options.country }
+      params = { :iso2 => options.country, :moll => options.moll }
       uri.query = URI.encode_www_form(params)
       pp("#{uri.host}:#{uri.port}#{uri.request_uri}") if @options.log
       begin
