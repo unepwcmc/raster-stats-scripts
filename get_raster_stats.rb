@@ -71,7 +71,7 @@ if options.operation
   result = q.start_queries
   if options[:file]
     File.open("#{options[:file]}.json","w") do |f|
-      f.write(result.to_json)
+      f.write(JSON.pretty_generate(result))
     end
   end
 end
