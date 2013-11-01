@@ -1,0 +1,7149 @@
+[
+  [
+    {
+      "value": 5300.0,
+      "iso2": "AF",
+      "raster_id": "6",
+      "percentage": 36.55
+    },
+    {
+      "value": 600.0,
+      "iso2": "AF",
+      "raster_id": "7",
+      "percentage": 4.14
+    },
+    {
+      "value": 600.0,
+      "iso2": "AF",
+      "raster_id": "8",
+      "percentage": 4.14
+    },
+    {
+      "value": 1100.0,
+      "iso2": "AF",
+      "raster_id": "9",
+      "percentage": 7.59
+    },
+    {
+      "value": 6900.0,
+      "iso2": "AF",
+      "raster_id": "11",
+      "percentage": 47.59
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "AX",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "AX",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AX",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AX",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AX",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "AL",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AL",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 14300.0,
+      "iso2": "AL",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 14300.0,
+      "iso2": "AL",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 14300.0,
+      "iso2": "DZ",
+      "raster_id": "6",
+      "percentage": 10.46
+    },
+    {
+      "value": 700.0,
+      "iso2": "DZ",
+      "raster_id": "7",
+      "percentage": 0.51
+    },
+    {
+      "value": 0.0,
+      "iso2": "DZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 40800.0,
+      "iso2": "DZ",
+      "raster_id": "9",
+      "percentage": 29.85
+    },
+    {
+      "value": 80900.0,
+      "iso2": "DZ",
+      "raster_id": "11",
+      "percentage": 59.18
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "AS",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AS",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AS",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AS",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AS",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "AD",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AD",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AD",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AD",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AD",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 603000.0,
+      "iso2": "AO",
+      "raster_id": "6",
+      "percentage": 42.59
+    },
+    {
+      "value": 90100.0,
+      "iso2": "AO",
+      "raster_id": "7",
+      "percentage": 6.36
+    },
+    {
+      "value": 0.0,
+      "iso2": "AO",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 22100.0,
+      "iso2": "AO",
+      "raster_id": "9",
+      "percentage": 1.56
+    },
+    {
+      "value": 700500.0,
+      "iso2": "AO",
+      "raster_id": "11",
+      "percentage": 49.48
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "AQ",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AQ",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AQ",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AQ",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AQ",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "AG",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "AG",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "AG",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "AG",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "AG",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "AR",
+      "raster_id": "6",
+      "percentage": 0.01
+    },
+    {
+      "value": 18800.0,
+      "iso2": "AR",
+      "raster_id": "7",
+      "percentage": 1.63
+    },
+    {
+      "value": 1100.0,
+      "iso2": "AR",
+      "raster_id": "8",
+      "percentage": 0.1
+    },
+    {
+      "value": 314600.0,
+      "iso2": "AR",
+      "raster_id": "9",
+      "percentage": 27.35
+    },
+    {
+      "value": 815700.0,
+      "iso2": "AR",
+      "raster_id": "11",
+      "percentage": 70.91
+    }
+  ],
+  [
+    {
+      "value": 6200.0,
+      "iso2": "AM",
+      "raster_id": "6",
+      "percentage": 15.16
+    },
+    {
+      "value": 6200.0,
+      "iso2": "AM",
+      "raster_id": "7",
+      "percentage": 15.16
+    },
+    {
+      "value": 6200.0,
+      "iso2": "AM",
+      "raster_id": "8",
+      "percentage": 15.16
+    },
+    {
+      "value": 6200.0,
+      "iso2": "AM",
+      "raster_id": "9",
+      "percentage": 15.16
+    },
+    {
+      "value": 16100.0,
+      "iso2": "AM",
+      "raster_id": "11",
+      "percentage": 39.36
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 16100.0,
+      "iso2": "AU",
+      "raster_id": "6",
+      "percentage": 0.58
+    },
+    {
+      "value": 90000.0,
+      "iso2": "AU",
+      "raster_id": "7",
+      "percentage": 3.24
+    },
+    {
+      "value": 468600.0,
+      "iso2": "AU",
+      "raster_id": "8",
+      "percentage": 16.85
+    },
+    {
+      "value": 543600.0,
+      "iso2": "AU",
+      "raster_id": "9",
+      "percentage": 19.55
+    },
+    {
+      "value": 1662200.0,
+      "iso2": "AU",
+      "raster_id": "11",
+      "percentage": 59.78
+    }
+  ],
+  [
+    {
+      "value": 18300.0,
+      "iso2": "AT",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 18300.0,
+      "iso2": "AT",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AT",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AT",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AT",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 11900.0,
+      "iso2": "AZ",
+      "raster_id": "6",
+      "percentage": 22.71
+    },
+    {
+      "value": 11900.0,
+      "iso2": "AZ",
+      "raster_id": "7",
+      "percentage": 22.71
+    },
+    {
+      "value": 0.0,
+      "iso2": "AZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "AZ",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 28600.0,
+      "iso2": "AZ",
+      "raster_id": "11",
+      "percentage": 54.58
+    }
+  ],
+  [
+    {
+      "value": 28600.0,
+      "iso2": "BS",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BS",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BS",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BS",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BS",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "BH",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BH",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BH",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BH",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BH",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "BD",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BD",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BD",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 110100.0,
+      "iso2": "BD",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 110100.0,
+      "iso2": "BD",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "BB",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "BB",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "BB",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "BB",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "BB",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "BY",
+      "raster_id": "6",
+      "percentage": 0.09
+    },
+    {
+      "value": 18200.0,
+      "iso2": "BY",
+      "raster_id": "7",
+      "percentage": 7.82
+    },
+    {
+      "value": 0.0,
+      "iso2": "BY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BY",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 214200.0,
+      "iso2": "BY",
+      "raster_id": "11",
+      "percentage": 92.09
+    }
+  ],
+  [
+    {
+      "value": 214200.0,
+      "iso2": "BE",
+      "raster_id": "6",
+      "percentage": 99.81
+    },
+    {
+      "value": 100.0,
+      "iso2": "BE",
+      "raster_id": "7",
+      "percentage": 0.05
+    },
+    {
+      "value": 100.0,
+      "iso2": "BE",
+      "raster_id": "8",
+      "percentage": 0.05
+    },
+    {
+      "value": 100.0,
+      "iso2": "BE",
+      "raster_id": "9",
+      "percentage": 0.05
+    },
+    {
+      "value": 100.0,
+      "iso2": "BE",
+      "raster_id": "11",
+      "percentage": 0.05
+    }
+  ],
+  [
+    {
+      "value": 2800.0,
+      "iso2": "BZ",
+      "raster_id": "6",
+      "percentage": 16.09
+    },
+    {
+      "value": 2800.0,
+      "iso2": "BZ",
+      "raster_id": "7",
+      "percentage": 16.09
+    },
+    {
+      "value": 2800.0,
+      "iso2": "BZ",
+      "raster_id": "8",
+      "percentage": 16.09
+    },
+    {
+      "value": 2800.0,
+      "iso2": "BZ",
+      "raster_id": "9",
+      "percentage": 16.09
+    },
+    {
+      "value": 6200.0,
+      "iso2": "BZ",
+      "raster_id": "11",
+      "percentage": 35.63
+    }
+  ],
+  [
+    {
+      "value": 6200.0,
+      "iso2": "BJ",
+      "raster_id": "6",
+      "percentage": 9.06
+    },
+    {
+      "value": 6200.0,
+      "iso2": "BJ",
+      "raster_id": "7",
+      "percentage": 9.06
+    },
+    {
+      "value": 6200.0,
+      "iso2": "BJ",
+      "raster_id": "8",
+      "percentage": 9.06
+    },
+    {
+      "value": 24900.0,
+      "iso2": "BJ",
+      "raster_id": "9",
+      "percentage": 36.4
+    },
+    {
+      "value": 24900.0,
+      "iso2": "BJ",
+      "raster_id": "11",
+      "percentage": 36.4
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 1800.0,
+      "iso2": "BT",
+      "raster_id": "6",
+      "percentage": 19.15
+    },
+    {
+      "value": 1900.0,
+      "iso2": "BT",
+      "raster_id": "7",
+      "percentage": 20.21
+    },
+    {
+      "value": 1900.0,
+      "iso2": "BT",
+      "raster_id": "8",
+      "percentage": 20.21
+    },
+    {
+      "value": 1900.0,
+      "iso2": "BT",
+      "raster_id": "9",
+      "percentage": 20.21
+    },
+    {
+      "value": 1900.0,
+      "iso2": "BT",
+      "raster_id": "11",
+      "percentage": 20.21
+    }
+  ],
+  [
+    {
+      "value": 47000.0,
+      "iso2": "BO",
+      "raster_id": "6",
+      "percentage": 20.29
+    },
+    {
+      "value": 59500.0,
+      "iso2": "BO",
+      "raster_id": "7",
+      "percentage": 25.69
+    },
+    {
+      "value": 0.0,
+      "iso2": "BO",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 11500.0,
+      "iso2": "BO",
+      "raster_id": "9",
+      "percentage": 4.97
+    },
+    {
+      "value": 113600.0,
+      "iso2": "BO",
+      "raster_id": "11",
+      "percentage": 49.05
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 22700.0,
+      "iso2": "BA",
+      "raster_id": "6",
+      "percentage": 24.81
+    },
+    {
+      "value": 22700.0,
+      "iso2": "BA",
+      "raster_id": "7",
+      "percentage": 24.81
+    },
+    {
+      "value": 22700.0,
+      "iso2": "BA",
+      "raster_id": "8",
+      "percentage": 24.81
+    },
+    {
+      "value": 11700.0,
+      "iso2": "BA",
+      "raster_id": "9",
+      "percentage": 12.79
+    },
+    {
+      "value": 11700.0,
+      "iso2": "BA",
+      "raster_id": "11",
+      "percentage": 12.79
+    }
+  ],
+  [
+    {
+      "value": 11700.0,
+      "iso2": "BW",
+      "raster_id": "6",
+      "percentage": 7.75
+    },
+    {
+      "value": 0.0,
+      "iso2": "BW",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BW",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BW",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 139300.0,
+      "iso2": "BW",
+      "raster_id": "11",
+      "percentage": 92.25
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 2836300.0,
+      "iso2": "BR",
+      "raster_id": "6",
+      "percentage": 36.42
+    },
+    {
+      "value": 531800.0,
+      "iso2": "BR",
+      "raster_id": "7",
+      "percentage": 6.83
+    },
+    {
+      "value": 18500.0,
+      "iso2": "BR",
+      "raster_id": "8",
+      "percentage": 0.24
+    },
+    {
+      "value": 562200.0,
+      "iso2": "BR",
+      "raster_id": "9",
+      "percentage": 7.22
+    },
+    {
+      "value": 3838200.0,
+      "iso2": "BR",
+      "raster_id": "11",
+      "percentage": 49.29
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "IO",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IO",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IO",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IO",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IO",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "BN",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BN",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BN",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BN",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "BN",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "BG",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 6300.0,
+      "iso2": "BG",
+      "raster_id": "7",
+      "percentage": 5.11
+    },
+    {
+      "value": 6300.0,
+      "iso2": "BG",
+      "raster_id": "8",
+      "percentage": 5.11
+    },
+    {
+      "value": 6300.0,
+      "iso2": "BG",
+      "raster_id": "9",
+      "percentage": 5.11
+    },
+    {
+      "value": 104500.0,
+      "iso2": "BG",
+      "raster_id": "11",
+      "percentage": 84.68
+    }
+  ],
+  [
+    {
+      "value": 104500.0,
+      "iso2": "BF",
+      "raster_id": "6",
+      "percentage": 54.34
+    },
+    {
+      "value": 0.0,
+      "iso2": "BF",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "BF",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 43900.0,
+      "iso2": "BF",
+      "raster_id": "9",
+      "percentage": 22.83
+    },
+    {
+      "value": 43900.0,
+      "iso2": "BF",
+      "raster_id": "11",
+      "percentage": 22.83
+    }
+  ],
+  [
+    {
+      "value": 8500.0,
+      "iso2": "BI",
+      "raster_id": "6",
+      "percentage": 14.43
+    },
+    {
+      "value": 8500.0,
+      "iso2": "BI",
+      "raster_id": "7",
+      "percentage": 14.43
+    },
+    {
+      "value": 8500.0,
+      "iso2": "BI",
+      "raster_id": "8",
+      "percentage": 14.43
+    },
+    {
+      "value": 8500.0,
+      "iso2": "BI",
+      "raster_id": "9",
+      "percentage": 14.43
+    },
+    {
+      "value": 24900.0,
+      "iso2": "BI",
+      "raster_id": "11",
+      "percentage": 42.28
+    }
+  ],
+  [
+    {
+      "value": 24900.0,
+      "iso2": "KH",
+      "raster_id": "6",
+      "percentage": 15.5
+    },
+    {
+      "value": 24900.0,
+      "iso2": "KH",
+      "raster_id": "7",
+      "percentage": 15.5
+    },
+    {
+      "value": 0.0,
+      "iso2": "KH",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KH",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 110800.0,
+      "iso2": "KH",
+      "raster_id": "11",
+      "percentage": 68.99
+    }
+  ],
+  [
+    {
+      "value": 110800.0,
+      "iso2": "CM",
+      "raster_id": "6",
+      "percentage": 26.21
+    },
+    {
+      "value": 51200.0,
+      "iso2": "CM",
+      "raster_id": "7",
+      "percentage": 12.11
+    },
+    {
+      "value": 51200.0,
+      "iso2": "CM",
+      "raster_id": "8",
+      "percentage": 12.11
+    },
+    {
+      "value": 26300.0,
+      "iso2": "CM",
+      "raster_id": "9",
+      "percentage": 6.22
+    },
+    {
+      "value": 183300.0,
+      "iso2": "CM",
+      "raster_id": "11",
+      "percentage": 43.35
+    }
+  ],
+  [
+    {
+      "value": 376200.0,
+      "iso2": "CA",
+      "raster_id": "6",
+      "percentage": 8.27
+    },
+    {
+      "value": 269400.0,
+      "iso2": "CA",
+      "raster_id": "7",
+      "percentage": 5.92
+    },
+    {
+      "value": 1276900.0,
+      "iso2": "CA",
+      "raster_id": "8",
+      "percentage": 28.07
+    },
+    {
+      "value": 389600.0,
+      "iso2": "CA",
+      "raster_id": "9",
+      "percentage": 8.57
+    },
+    {
+      "value": 2236200.0,
+      "iso2": "CA",
+      "raster_id": "11",
+      "percentage": 49.17
+    }
+  ],
+  [
+    {
+      "value": 600.0,
+      "iso2": "CV",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "CV",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "CV",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "CV",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "CV",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "KY",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KY",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KY",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KY",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KY",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "CF",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 20400.0,
+      "iso2": "CF",
+      "raster_id": "7",
+      "percentage": 73.38
+    },
+    {
+      "value": 0.0,
+      "iso2": "CF",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 3700.0,
+      "iso2": "CF",
+      "raster_id": "9",
+      "percentage": 13.31
+    },
+    {
+      "value": 3700.0,
+      "iso2": "CF",
+      "raster_id": "11",
+      "percentage": 13.31
+    }
+  ],
+  [
+    {
+      "value": 243300.0,
+      "iso2": "TD",
+      "raster_id": "6",
+      "percentage": 46.16
+    },
+    {
+      "value": 0.0,
+      "iso2": "TD",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TD",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 23500.0,
+      "iso2": "TD",
+      "raster_id": "9",
+      "percentage": 4.46
+    },
+    {
+      "value": 260300.0,
+      "iso2": "TD",
+      "raster_id": "11",
+      "percentage": 49.38
+    }
+  ],
+  [
+    {
+      "value": 72600.0,
+      "iso2": "CL",
+      "raster_id": "6",
+      "percentage": 34.89
+    },
+    {
+      "value": 8000.0,
+      "iso2": "CL",
+      "raster_id": "7",
+      "percentage": 3.84
+    },
+    {
+      "value": 8800.0,
+      "iso2": "CL",
+      "raster_id": "8",
+      "percentage": 4.23
+    },
+    {
+      "value": 16900.0,
+      "iso2": "CL",
+      "raster_id": "9",
+      "percentage": 8.12
+    },
+    {
+      "value": 101800.0,
+      "iso2": "CL",
+      "raster_id": "11",
+      "percentage": 48.92
+    }
+  ],
+  [
+    {
+      "value": 1278500.0,
+      "iso2": "CN",
+      "raster_id": "6",
+      "percentage": 15.44
+    },
+    {
+      "value": 910800.0,
+      "iso2": "CN",
+      "raster_id": "7",
+      "percentage": 11.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CN",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 2025500.0,
+      "iso2": "CN",
+      "raster_id": "9",
+      "percentage": 24.46
+    },
+    {
+      "value": 4065900.0,
+      "iso2": "CN",
+      "raster_id": "11",
+      "percentage": 49.1
+    }
+  ],
+  [
+
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 244100.0,
+      "iso2": "CO",
+      "raster_id": "6",
+      "percentage": 37.07
+    },
+    {
+      "value": 55100.0,
+      "iso2": "CO",
+      "raster_id": "7",
+      "percentage": 8.37
+    },
+    {
+      "value": 0.0,
+      "iso2": "CO",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 36000.0,
+      "iso2": "CO",
+      "raster_id": "9",
+      "percentage": 5.47
+    },
+    {
+      "value": 323300.0,
+      "iso2": "CO",
+      "raster_id": "11",
+      "percentage": 49.1
+    }
+  ],
+  [
+    {
+      "value": 600.0,
+      "iso2": "KM",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "KM",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "KM",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "KM",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 600.0,
+      "iso2": "KM",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 600.0,
+      "iso2": "CG",
+      "raster_id": "6",
+      "percentage": 0.27
+    },
+    {
+      "value": 104000.0,
+      "iso2": "CG",
+      "raster_id": "7",
+      "percentage": 45.94
+    },
+    {
+      "value": 0.0,
+      "iso2": "CG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CG",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 121800.0,
+      "iso2": "CG",
+      "raster_id": "11",
+      "percentage": 53.8
+    }
+  ],
+  [
+    {
+      "value": 429400.0,
+      "iso2": "CD",
+      "raster_id": "6",
+      "percentage": 22.17
+    },
+    {
+      "value": 459200.0,
+      "iso2": "CD",
+      "raster_id": "7",
+      "percentage": 23.71
+    },
+    {
+      "value": 0.0,
+      "iso2": "CD",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 98200.0,
+      "iso2": "CD",
+      "raster_id": "9",
+      "percentage": 5.07
+    },
+    {
+      "value": 949800.0,
+      "iso2": "CD",
+      "raster_id": "11",
+      "percentage": 49.04
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "CK",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "CK",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "CK",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "CK",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "CK",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 16400.0,
+      "iso2": "CR",
+      "raster_id": "6",
+      "percentage": 17.79
+    },
+    {
+      "value": 16400.0,
+      "iso2": "CR",
+      "raster_id": "7",
+      "percentage": 17.79
+    },
+    {
+      "value": 16400.0,
+      "iso2": "CR",
+      "raster_id": "8",
+      "percentage": 17.79
+    },
+    {
+      "value": 16400.0,
+      "iso2": "CR",
+      "raster_id": "9",
+      "percentage": 17.79
+    },
+    {
+      "value": 26600.0,
+      "iso2": "CR",
+      "raster_id": "11",
+      "percentage": 28.85
+    }
+  ],
+  [
+    {
+      "value": 26600.0,
+      "iso2": "CI",
+      "raster_id": "6",
+      "percentage": 22.66
+    },
+    {
+      "value": 26600.0,
+      "iso2": "CI",
+      "raster_id": "7",
+      "percentage": 22.66
+    },
+    {
+      "value": 0.0,
+      "iso2": "CI",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 32100.0,
+      "iso2": "CI",
+      "raster_id": "9",
+      "percentage": 27.34
+    },
+    {
+      "value": 32100.0,
+      "iso2": "CI",
+      "raster_id": "11",
+      "percentage": 27.34
+    }
+  ],
+  [
+    {
+      "value": 20400.0,
+      "iso2": "HR",
+      "raster_id": "6",
+      "percentage": 24.73
+    },
+    {
+      "value": 20400.0,
+      "iso2": "HR",
+      "raster_id": "7",
+      "percentage": 24.73
+    },
+    {
+      "value": 0.0,
+      "iso2": "HR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HR",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 41700.0,
+      "iso2": "HR",
+      "raster_id": "11",
+      "percentage": 50.55
+    }
+  ],
+  [
+    {
+      "value": 68900.0,
+      "iso2": "CU",
+      "raster_id": "6",
+      "percentage": 31.18
+    },
+    {
+      "value": 68900.0,
+      "iso2": "CU",
+      "raster_id": "7",
+      "percentage": 31.18
+    },
+    {
+      "value": 0.0,
+      "iso2": "CU",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CU",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 83200.0,
+      "iso2": "CU",
+      "raster_id": "11",
+      "percentage": 37.65
+    }
+  ],
+  [
+    {
+      "value": 83200.0,
+      "iso2": "CW",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CW",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CW",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CW",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CW",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "CY",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CY",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 2300.0,
+      "iso2": "CY",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 2300.0,
+      "iso2": "CY",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 2300.0,
+      "iso2": "CZ",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 2300.0,
+      "iso2": "CZ",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CZ",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CZ",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 13600.0,
+      "iso2": "DK",
+      "raster_id": "6",
+      "percentage": 15.96
+    },
+    {
+      "value": 13600.0,
+      "iso2": "DK",
+      "raster_id": "7",
+      "percentage": 15.96
+    },
+    {
+      "value": 0.0,
+      "iso2": "DK",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "DK",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 58000.0,
+      "iso2": "DK",
+      "raster_id": "11",
+      "percentage": 68.08
+    }
+  ],
+  [
+    {
+      "value": 58000.0,
+      "iso2": "DJ",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 58000.0,
+      "iso2": "DJ",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "DJ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "DJ",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "DJ",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "DM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "DO",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DO",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DO",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DO",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "DO",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 63700.0,
+      "iso2": "EC",
+      "raster_id": "6",
+      "percentage": 29.44
+    },
+    {
+      "value": 63700.0,
+      "iso2": "EC",
+      "raster_id": "7",
+      "percentage": 29.44
+    },
+    {
+      "value": 0.0,
+      "iso2": "EC",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "EC",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 89000.0,
+      "iso2": "EC",
+      "raster_id": "11",
+      "percentage": 41.13
+    }
+  ],
+  [
+    {
+      "value": 89000.0,
+      "iso2": "EG",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "EG",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "EG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "EG",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "EG",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 11300.0,
+      "iso2": "SV",
+      "raster_id": "6",
+      "percentage": 23.99
+    },
+    {
+      "value": 11300.0,
+      "iso2": "SV",
+      "raster_id": "7",
+      "percentage": 23.99
+    },
+    {
+      "value": 11300.0,
+      "iso2": "SV",
+      "raster_id": "8",
+      "percentage": 23.99
+    },
+    {
+      "value": 6600.0,
+      "iso2": "SV",
+      "raster_id": "9",
+      "percentage": 14.01
+    },
+    {
+      "value": 6600.0,
+      "iso2": "SV",
+      "raster_id": "11",
+      "percentage": 14.01
+    }
+  ],
+  [
+    {
+      "value": 6600.0,
+      "iso2": "GQ",
+      "raster_id": "6",
+      "percentage": 33.33
+    },
+    {
+      "value": 6600.0,
+      "iso2": "GQ",
+      "raster_id": "7",
+      "percentage": 33.33
+    },
+    {
+      "value": 6600.0,
+      "iso2": "GQ",
+      "raster_id": "8",
+      "percentage": 33.33
+    },
+    {
+      "value": 0.0,
+      "iso2": "GQ",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GQ",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "ER",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ER",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ER",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ER",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 10500.0,
+      "iso2": "ER",
+      "raster_id": "11",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 10500.0,
+      "iso2": "EE",
+      "raster_id": "6",
+      "percentage": 15.98
+    },
+    {
+      "value": 5900.0,
+      "iso2": "EE",
+      "raster_id": "7",
+      "percentage": 8.98
+    },
+    {
+      "value": 5900.0,
+      "iso2": "EE",
+      "raster_id": "8",
+      "percentage": 8.98
+    },
+    {
+      "value": 5900.0,
+      "iso2": "EE",
+      "raster_id": "9",
+      "percentage": 8.98
+    },
+    {
+      "value": 37500.0,
+      "iso2": "EE",
+      "raster_id": "11",
+      "percentage": 57.08
+    }
+  ],
+  [
+    {
+      "value": 37500.0,
+      "iso2": "ET",
+      "raster_id": "6",
+      "percentage": 5.9
+    },
+    {
+      "value": 4000.0,
+      "iso2": "ET",
+      "raster_id": "7",
+      "percentage": 0.63
+    },
+    {
+      "value": 0.0,
+      "iso2": "ET",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 141100.0,
+      "iso2": "ET",
+      "raster_id": "9",
+      "percentage": 22.19
+    },
+    {
+      "value": 453200.0,
+      "iso2": "ET",
+      "raster_id": "11",
+      "percentage": 71.28
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "FK",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FK",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FK",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FK",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FK",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "FO",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "FO",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "FO",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "FO",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "FO",
+      "raster_id": "11",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 500.0,
+      "iso2": "FJ",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "FJ",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "FJ",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "FJ",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "FJ",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 500.0,
+      "iso2": "FI",
+      "raster_id": "6",
+      "percentage": 0.4
+    },
+    {
+      "value": 35600.0,
+      "iso2": "FI",
+      "raster_id": "7",
+      "percentage": 28.41
+    },
+    {
+      "value": 0.0,
+      "iso2": "FI",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 10600.0,
+      "iso2": "FI",
+      "raster_id": "9",
+      "percentage": 8.46
+    },
+    {
+      "value": 78600.0,
+      "iso2": "FI",
+      "raster_id": "11",
+      "percentage": 62.73
+    }
+  ],
+  [
+    {
+      "value": 264500.0,
+      "iso2": "FR",
+      "raster_id": "6",
+      "percentage": 20.9
+    },
+    {
+      "value": 25600.0,
+      "iso2": "FR",
+      "raster_id": "7",
+      "percentage": 2.02
+    },
+    {
+      "value": 400.0,
+      "iso2": "FR",
+      "raster_id": "8",
+      "percentage": 0.03
+    },
+    {
+      "value": 354600.0,
+      "iso2": "FR",
+      "raster_id": "9",
+      "percentage": 28.02
+    },
+    {
+      "value": 620500.0,
+      "iso2": "FR",
+      "raster_id": "11",
+      "percentage": 49.03
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "PF",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PF",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PF",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PF",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PF",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TF",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TF",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TF",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TF",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TF",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GA",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GA",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "GA",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "GA",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 5800.0,
+      "iso2": "GM",
+      "raster_id": "6",
+      "percentage": 18.35
+    },
+    {
+      "value": 5800.0,
+      "iso2": "GM",
+      "raster_id": "7",
+      "percentage": 18.35
+    },
+    {
+      "value": 5800.0,
+      "iso2": "GM",
+      "raster_id": "8",
+      "percentage": 18.35
+    },
+    {
+      "value": 5800.0,
+      "iso2": "GM",
+      "raster_id": "9",
+      "percentage": 18.35
+    },
+    {
+      "value": 8400.0,
+      "iso2": "GM",
+      "raster_id": "11",
+      "percentage": 26.58
+    }
+  ],
+  [
+    {
+      "value": 8400.0,
+      "iso2": "GE",
+      "raster_id": "6",
+      "percentage": 18.58
+    },
+    {
+      "value": 8400.0,
+      "iso2": "GE",
+      "raster_id": "7",
+      "percentage": 18.58
+    },
+    {
+      "value": 8400.0,
+      "iso2": "GE",
+      "raster_id": "8",
+      "percentage": 18.58
+    },
+    {
+      "value": 10000.0,
+      "iso2": "GE",
+      "raster_id": "9",
+      "percentage": 22.12
+    },
+    {
+      "value": 10000.0,
+      "iso2": "GE",
+      "raster_id": "11",
+      "percentage": 22.12
+    }
+  ],
+  [
+    {
+      "value": 122400.0,
+      "iso2": "DE",
+      "raster_id": "6",
+      "percentage": 13.41
+    },
+    {
+      "value": 122400.0,
+      "iso2": "DE",
+      "raster_id": "7",
+      "percentage": 13.41
+    },
+    {
+      "value": 0.0,
+      "iso2": "DE",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 276500.0,
+      "iso2": "DE",
+      "raster_id": "9",
+      "percentage": 30.3
+    },
+    {
+      "value": 391200.0,
+      "iso2": "DE",
+      "raster_id": "11",
+      "percentage": 42.87
+    }
+  ],
+  [
+    {
+      "value": 141400.0,
+      "iso2": "GH",
+      "raster_id": "6",
+      "percentage": 39.9
+    },
+    {
+      "value": 10500.0,
+      "iso2": "GH",
+      "raster_id": "7",
+      "percentage": 2.96
+    },
+    {
+      "value": 10500.0,
+      "iso2": "GH",
+      "raster_id": "8",
+      "percentage": 2.96
+    },
+    {
+      "value": 10500.0,
+      "iso2": "GH",
+      "raster_id": "9",
+      "percentage": 2.96
+    },
+    {
+      "value": 181500.0,
+      "iso2": "GH",
+      "raster_id": "11",
+      "percentage": 51.21
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 69500.0,
+      "iso2": "GR",
+      "raster_id": "6",
+      "percentage": 27.21
+    },
+    {
+      "value": 13800.0,
+      "iso2": "GR",
+      "raster_id": "7",
+      "percentage": 5.4
+    },
+    {
+      "value": 0.0,
+      "iso2": "GR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 47600.0,
+      "iso2": "GR",
+      "raster_id": "9",
+      "percentage": 18.64
+    },
+    {
+      "value": 124500.0,
+      "iso2": "GR",
+      "raster_id": "11",
+      "percentage": 48.75
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GL",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GL",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GL",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GL",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GL",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "GD",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "GD",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GD",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GD",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "GD",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GU",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GU",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GU",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GU",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GU",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GT",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GT",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GT",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GT",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GT",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 84400.0,
+      "iso2": "GN",
+      "raster_id": "6",
+      "percentage": 53.96
+    },
+    {
+      "value": 20900.0,
+      "iso2": "GN",
+      "raster_id": "7",
+      "percentage": 13.36
+    },
+    {
+      "value": 20900.0,
+      "iso2": "GN",
+      "raster_id": "8",
+      "percentage": 13.36
+    },
+    {
+      "value": 15100.0,
+      "iso2": "GN",
+      "raster_id": "9",
+      "percentage": 9.65
+    },
+    {
+      "value": 15100.0,
+      "iso2": "GN",
+      "raster_id": "11",
+      "percentage": 9.65
+    }
+  ],
+  [
+    {
+      "value": 10500.0,
+      "iso2": "GW",
+      "raster_id": "6",
+      "percentage": 31.34
+    },
+    {
+      "value": 10500.0,
+      "iso2": "GW",
+      "raster_id": "7",
+      "percentage": 31.34
+    },
+    {
+      "value": 10500.0,
+      "iso2": "GW",
+      "raster_id": "8",
+      "percentage": 31.34
+    },
+    {
+      "value": 1000.0,
+      "iso2": "GW",
+      "raster_id": "9",
+      "percentage": 2.99
+    },
+    {
+      "value": 1000.0,
+      "iso2": "GW",
+      "raster_id": "11",
+      "percentage": 2.99
+    }
+  ],
+  [
+    {
+      "value": 1000.0,
+      "iso2": "GY",
+      "raster_id": "6",
+      "percentage": 27.78
+    },
+    {
+      "value": 2300.0,
+      "iso2": "GY",
+      "raster_id": "7",
+      "percentage": 63.89
+    },
+    {
+      "value": 100.0,
+      "iso2": "GY",
+      "raster_id": "8",
+      "percentage": 2.78
+    },
+    {
+      "value": 100.0,
+      "iso2": "GY",
+      "raster_id": "9",
+      "percentage": 2.78
+    },
+    {
+      "value": 100.0,
+      "iso2": "GY",
+      "raster_id": "11",
+      "percentage": 2.78
+    }
+  ],
+  [
+    {
+      "value": 13700.0,
+      "iso2": "HT",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 13700.0,
+      "iso2": "HT",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HT",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HT",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HT",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "HM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "HM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "HM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "HM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "HM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "VA",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VA",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VA",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VA",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VA",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 37200.0,
+      "iso2": "HN",
+      "raster_id": "6",
+      "percentage": 28.7
+    },
+    {
+      "value": 37200.0,
+      "iso2": "HN",
+      "raster_id": "7",
+      "percentage": 28.7
+    },
+    {
+      "value": 37200.0,
+      "iso2": "HN",
+      "raster_id": "8",
+      "percentage": 28.7
+    },
+    {
+      "value": 9000.0,
+      "iso2": "HN",
+      "raster_id": "9",
+      "percentage": 6.94
+    },
+    {
+      "value": 9000.0,
+      "iso2": "HN",
+      "raster_id": "11",
+      "percentage": 6.94
+    }
+  ],
+  [
+    {
+      "value": 9000.0,
+      "iso2": "HK",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HK",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HK",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HK",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "HK",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "HU",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 800.0,
+      "iso2": "HU",
+      "raster_id": "7",
+      "percentage": 0.73
+    },
+    {
+      "value": 800.0,
+      "iso2": "HU",
+      "raster_id": "8",
+      "percentage": 0.73
+    },
+    {
+      "value": 800.0,
+      "iso2": "HU",
+      "raster_id": "9",
+      "percentage": 0.73
+    },
+    {
+      "value": 107200.0,
+      "iso2": "HU",
+      "raster_id": "11",
+      "percentage": 97.81
+    }
+  ],
+  [
+    {
+      "value": 107200.0,
+      "iso2": "IS",
+      "raster_id": "6",
+      "percentage": 94.37
+    },
+    {
+      "value": 0.0,
+      "iso2": "IS",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 2100.0,
+      "iso2": "IS",
+      "raster_id": "8",
+      "percentage": 1.85
+    },
+    {
+      "value": 2100.0,
+      "iso2": "IS",
+      "raster_id": "9",
+      "percentage": 1.85
+    },
+    {
+      "value": 2200.0,
+      "iso2": "IS",
+      "raster_id": "11",
+      "percentage": 1.94
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 329300.0,
+      "iso2": "ID",
+      "raster_id": "6",
+      "percentage": 25.22
+    },
+    {
+      "value": 82200.0,
+      "iso2": "ID",
+      "raster_id": "7",
+      "percentage": 6.3
+    },
+    {
+      "value": 600.0,
+      "iso2": "ID",
+      "raster_id": "8",
+      "percentage": 0.05
+    },
+    {
+      "value": 256100.0,
+      "iso2": "ID",
+      "raster_id": "9",
+      "percentage": 19.62
+    },
+    {
+      "value": 637400.0,
+      "iso2": "ID",
+      "raster_id": "11",
+      "percentage": 48.82
+    }
+  ],
+  [
+    {
+      "value": 9200.0,
+      "iso2": "IR",
+      "raster_id": "6",
+      "percentage": 18.25
+    },
+    {
+      "value": 7200.0,
+      "iso2": "IR",
+      "raster_id": "7",
+      "percentage": 14.29
+    },
+    {
+      "value": 0.0,
+      "iso2": "IR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 10200.0,
+      "iso2": "IR",
+      "raster_id": "9",
+      "percentage": 20.24
+    },
+    {
+      "value": 23800.0,
+      "iso2": "IR",
+      "raster_id": "11",
+      "percentage": 47.22
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "IQ",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IQ",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IQ",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IQ",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "IQ",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 62800.0,
+      "iso2": "IE",
+      "raster_id": "6",
+      "percentage": 46.52
+    },
+    {
+      "value": 23400.0,
+      "iso2": "IE",
+      "raster_id": "7",
+      "percentage": 17.33
+    },
+    {
+      "value": 23400.0,
+      "iso2": "IE",
+      "raster_id": "8",
+      "percentage": 17.33
+    },
+    {
+      "value": 12700.0,
+      "iso2": "IE",
+      "raster_id": "9",
+      "percentage": 9.41
+    },
+    {
+      "value": 12700.0,
+      "iso2": "IE",
+      "raster_id": "11",
+      "percentage": 9.41
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "IM",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "IM",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "IM",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "IM",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "IM",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "IL",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "IL",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "IL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "IL",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "IL",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 114700.0,
+      "iso2": "IT",
+      "raster_id": "6",
+      "percentage": 20.33
+    },
+    {
+      "value": 13100.0,
+      "iso2": "IT",
+      "raster_id": "7",
+      "percentage": 2.32
+    },
+    {
+      "value": 0.0,
+      "iso2": "IT",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 159800.0,
+      "iso2": "IT",
+      "raster_id": "9",
+      "percentage": 28.33
+    },
+    {
+      "value": 276500.0,
+      "iso2": "IT",
+      "raster_id": "11",
+      "percentage": 49.02
+    }
+  ],
+  [
+    {
+      "value": 3800.0,
+      "iso2": "JM",
+      "raster_id": "6",
+      "percentage": 61.29
+    },
+    {
+      "value": 600.0,
+      "iso2": "JM",
+      "raster_id": "7",
+      "percentage": 9.68
+    },
+    {
+      "value": 600.0,
+      "iso2": "JM",
+      "raster_id": "8",
+      "percentage": 9.68
+    },
+    {
+      "value": 600.0,
+      "iso2": "JM",
+      "raster_id": "9",
+      "percentage": 9.68
+    },
+    {
+      "value": 600.0,
+      "iso2": "JM",
+      "raster_id": "11",
+      "percentage": 9.68
+    }
+  ],
+  [
+    {
+      "value": 600.0,
+      "iso2": "JP",
+      "raster_id": "6",
+      "percentage": 0.31
+    },
+    {
+      "value": 5800.0,
+      "iso2": "JP",
+      "raster_id": "7",
+      "percentage": 3.01
+    },
+    {
+      "value": 0.0,
+      "iso2": "JP",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 62700.0,
+      "iso2": "JP",
+      "raster_id": "9",
+      "percentage": 32.55
+    },
+    {
+      "value": 123500.0,
+      "iso2": "JP",
+      "raster_id": "11",
+      "percentage": 64.12
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "JE",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "JE",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "JE",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "JE",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "JE",
+      "raster_id": "11",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "JO",
+      "raster_id": "6",
+      "percentage": 25.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "JO",
+      "raster_id": "7",
+      "percentage": 25.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "JO",
+      "raster_id": "8",
+      "percentage": 25.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "JO",
+      "raster_id": "9",
+      "percentage": 12.5
+    },
+    {
+      "value": 100.0,
+      "iso2": "JO",
+      "raster_id": "11",
+      "percentage": 12.5
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "KZ",
+      "raster_id": "6",
+      "percentage": 0.03
+    },
+    {
+      "value": 10100.0,
+      "iso2": "KZ",
+      "raster_id": "7",
+      "percentage": 2.92
+    },
+    {
+      "value": 0.0,
+      "iso2": "KZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 116800.0,
+      "iso2": "KZ",
+      "raster_id": "9",
+      "percentage": 33.82
+    },
+    {
+      "value": 218400.0,
+      "iso2": "KZ",
+      "raster_id": "11",
+      "percentage": 63.23
+    }
+  ],
+  [
+    {
+      "value": 67200.0,
+      "iso2": "KE",
+      "raster_id": "6",
+      "percentage": 24.3
+    },
+    {
+      "value": 24800.0,
+      "iso2": "KE",
+      "raster_id": "7",
+      "percentage": 8.97
+    },
+    {
+      "value": 24800.0,
+      "iso2": "KE",
+      "raster_id": "8",
+      "percentage": 8.97
+    },
+    {
+      "value": 36000.0,
+      "iso2": "KE",
+      "raster_id": "9",
+      "percentage": 13.02
+    },
+    {
+      "value": 123800.0,
+      "iso2": "KE",
+      "raster_id": "11",
+      "percentage": 44.76
+    }
+  ],
+  [
+    {
+      "value": 123800.0,
+      "iso2": "KI",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KI",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KI",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KI",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KI",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "KP",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 15300.0,
+      "iso2": "KP",
+      "raster_id": "7",
+      "percentage": 15.27
+    },
+    {
+      "value": 15300.0,
+      "iso2": "KP",
+      "raster_id": "8",
+      "percentage": 15.27
+    },
+    {
+      "value": 34800.0,
+      "iso2": "KP",
+      "raster_id": "9",
+      "percentage": 34.73
+    },
+    {
+      "value": 34800.0,
+      "iso2": "KP",
+      "raster_id": "11",
+      "percentage": 34.73
+    }
+  ],
+  [
+    {
+      "value": 19200.0,
+      "iso2": "KR",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 19200.0,
+      "iso2": "KR",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KR",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KR",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "KW",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KW",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KW",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KW",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KW",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "KG",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KG",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "KG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 5800.0,
+      "iso2": "KG",
+      "raster_id": "9",
+      "percentage": 18.07
+    },
+    {
+      "value": 26300.0,
+      "iso2": "KG",
+      "raster_id": "11",
+      "percentage": 81.93
+    }
+  ],
+  [
+    {
+      "value": 26300.0,
+      "iso2": "LA",
+      "raster_id": "6",
+      "percentage": 14.39
+    },
+    {
+      "value": 35000.0,
+      "iso2": "LA",
+      "raster_id": "7",
+      "percentage": 19.15
+    },
+    {
+      "value": 35000.0,
+      "iso2": "LA",
+      "raster_id": "8",
+      "percentage": 19.15
+    },
+    {
+      "value": 13800.0,
+      "iso2": "LA",
+      "raster_id": "9",
+      "percentage": 7.55
+    },
+    {
+      "value": 72700.0,
+      "iso2": "LA",
+      "raster_id": "11",
+      "percentage": 39.77
+    }
+  ],
+  [
+    {
+      "value": 72700.0,
+      "iso2": "LV",
+      "raster_id": "6",
+      "percentage": 57.74
+    },
+    {
+      "value": 5900.0,
+      "iso2": "LV",
+      "raster_id": "7",
+      "percentage": 4.69
+    },
+    {
+      "value": 5900.0,
+      "iso2": "LV",
+      "raster_id": "8",
+      "percentage": 4.69
+    },
+    {
+      "value": 20700.0,
+      "iso2": "LV",
+      "raster_id": "9",
+      "percentage": 16.44
+    },
+    {
+      "value": 20700.0,
+      "iso2": "LV",
+      "raster_id": "11",
+      "percentage": 16.44
+    }
+  ],
+  [
+    {
+      "value": 20700.0,
+      "iso2": "LB",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 20700.0,
+      "iso2": "LB",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LB",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LB",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LB",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "LS",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LS",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LS",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LS",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LS",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "LR",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LR",
+      "raster_id": "7",
+      "percentage": 25.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LR",
+      "raster_id": "8",
+      "percentage": 25.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LR",
+      "raster_id": "9",
+      "percentage": 25.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LR",
+      "raster_id": "11",
+      "percentage": 25.0
+    }
+  ],
+  [
+    {
+      "value": 4600.0,
+      "iso2": "LY",
+      "raster_id": "6",
+      "percentage": 24.73
+    },
+    {
+      "value": 0.0,
+      "iso2": "LY",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 4600.0,
+      "iso2": "LY",
+      "raster_id": "9",
+      "percentage": 24.73
+    },
+    {
+      "value": 9400.0,
+      "iso2": "LY",
+      "raster_id": "11",
+      "percentage": 50.54
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "LI",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LI",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LI",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LI",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LI",
+      "raster_id": "11",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "LT",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "LT",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LT",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LT",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LT",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "LU",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LU",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LU",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LU",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LU",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MO",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MO",
+      "raster_id": "7",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 10900.0,
+      "iso2": "MK",
+      "raster_id": "6",
+      "percentage": 18.63
+    },
+    {
+      "value": 10900.0,
+      "iso2": "MK",
+      "raster_id": "7",
+      "percentage": 18.63
+    },
+    {
+      "value": 10900.0,
+      "iso2": "MK",
+      "raster_id": "8",
+      "percentage": 18.63
+    },
+    {
+      "value": 12900.0,
+      "iso2": "MK",
+      "raster_id": "9",
+      "percentage": 22.05
+    },
+    {
+      "value": 12900.0,
+      "iso2": "MK",
+      "raster_id": "11",
+      "percentage": 22.05
+    }
+  ],
+  [
+    {
+      "value": 12900.0,
+      "iso2": "MG",
+      "raster_id": "6",
+      "percentage": 2.33
+    },
+    {
+      "value": 33700.0,
+      "iso2": "MG",
+      "raster_id": "7",
+      "percentage": 6.09
+    },
+    {
+      "value": 33700.0,
+      "iso2": "MG",
+      "raster_id": "8",
+      "percentage": 6.09
+    },
+    {
+      "value": 46800.0,
+      "iso2": "MG",
+      "raster_id": "9",
+      "percentage": 8.45
+    },
+    {
+      "value": 426500.0,
+      "iso2": "MG",
+      "raster_id": "11",
+      "percentage": 77.04
+    }
+  ],
+  [
+    {
+      "value": 52700.0,
+      "iso2": "MW",
+      "raster_id": "6",
+      "percentage": 21.86
+    },
+    {
+      "value": 52700.0,
+      "iso2": "MW",
+      "raster_id": "7",
+      "percentage": 21.86
+    },
+    {
+      "value": 52700.0,
+      "iso2": "MW",
+      "raster_id": "8",
+      "percentage": 21.86
+    },
+    {
+      "value": 41500.0,
+      "iso2": "MW",
+      "raster_id": "9",
+      "percentage": 17.21
+    },
+    {
+      "value": 41500.0,
+      "iso2": "MW",
+      "raster_id": "11",
+      "percentage": 17.21
+    }
+  ],
+  [
+    {
+      "value": 67800.0,
+      "iso2": "MY",
+      "raster_id": "6",
+      "percentage": 35.5
+    },
+    {
+      "value": 9700.0,
+      "iso2": "MY",
+      "raster_id": "7",
+      "percentage": 5.08
+    },
+    {
+      "value": 0.0,
+      "iso2": "MY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 20200.0,
+      "iso2": "MY",
+      "raster_id": "9",
+      "percentage": 10.58
+    },
+    {
+      "value": 93300.0,
+      "iso2": "MY",
+      "raster_id": "11",
+      "percentage": 48.85
+    }
+  ],
+  [
+    {
+      "value": 93300.0,
+      "iso2": "MV",
+      "raster_id": "6",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 183800.0,
+      "iso2": "ML",
+      "raster_id": "6",
+      "percentage": 41.12
+    },
+    {
+      "value": 0.0,
+      "iso2": "ML",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ML",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 43200.0,
+      "iso2": "ML",
+      "raster_id": "9",
+      "percentage": 9.66
+    },
+    {
+      "value": 220000.0,
+      "iso2": "ML",
+      "raster_id": "11",
+      "percentage": 49.22
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MT",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MT",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MT",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MT",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MT",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MH",
+      "raster_id": "6",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MR",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MR",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MR",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MR",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MR",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 1300.0,
+      "iso2": "MU",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 1300.0,
+      "iso2": "MU",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 1300.0,
+      "iso2": "MU",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 1300.0,
+      "iso2": "MU",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 1300.0,
+      "iso2": "MU",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 424700.0,
+      "iso2": "MX",
+      "raster_id": "6",
+      "percentage": 35.02
+    },
+    {
+      "value": 99900.0,
+      "iso2": "MX",
+      "raster_id": "7",
+      "percentage": 8.24
+    },
+    {
+      "value": 0.0,
+      "iso2": "MX",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 90700.0,
+      "iso2": "MX",
+      "raster_id": "9",
+      "percentage": 7.48
+    },
+    {
+      "value": 597500.0,
+      "iso2": "MX",
+      "raster_id": "11",
+      "percentage": 49.27
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "FM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "FM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MD",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MD",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MD",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MD",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MD",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 118400.0,
+      "iso2": "MN",
+      "raster_id": "6",
+      "percentage": 31.17
+    },
+    {
+      "value": 55600.0,
+      "iso2": "MN",
+      "raster_id": "7",
+      "percentage": 14.64
+    },
+    {
+      "value": 800.0,
+      "iso2": "MN",
+      "raster_id": "8",
+      "percentage": 0.21
+    },
+    {
+      "value": 16700.0,
+      "iso2": "MN",
+      "raster_id": "9",
+      "percentage": 4.4
+    },
+    {
+      "value": 188400.0,
+      "iso2": "MN",
+      "raster_id": "11",
+      "percentage": 49.59
+    }
+  ],
+  [
+    {
+      "value": 8500.0,
+      "iso2": "ME",
+      "raster_id": "6",
+      "percentage": 29.21
+    },
+    {
+      "value": 8500.0,
+      "iso2": "ME",
+      "raster_id": "7",
+      "percentage": 29.21
+    },
+    {
+      "value": 8500.0,
+      "iso2": "ME",
+      "raster_id": "8",
+      "percentage": 29.21
+    },
+    {
+      "value": 1800.0,
+      "iso2": "ME",
+      "raster_id": "9",
+      "percentage": 6.19
+    },
+    {
+      "value": 1800.0,
+      "iso2": "ME",
+      "raster_id": "11",
+      "percentage": 6.19
+    }
+  ],
+  [
+    {
+      "value": 1800.0,
+      "iso2": "MS",
+      "raster_id": "6",
+      "percentage": 24.66
+    },
+    {
+      "value": 1800.0,
+      "iso2": "MS",
+      "raster_id": "7",
+      "percentage": 24.66
+    },
+    {
+      "value": 1800.0,
+      "iso2": "MS",
+      "raster_id": "8",
+      "percentage": 24.66
+    },
+    {
+      "value": 1800.0,
+      "iso2": "MS",
+      "raster_id": "9",
+      "percentage": 24.66
+    },
+    {
+      "value": 100.0,
+      "iso2": "MS",
+      "raster_id": "11",
+      "percentage": 1.37
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "MA",
+      "raster_id": "6",
+      "percentage": 0.05
+    },
+    {
+      "value": 1200.0,
+      "iso2": "MA",
+      "raster_id": "7",
+      "percentage": 0.65
+    },
+    {
+      "value": 0.0,
+      "iso2": "MA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 65100.0,
+      "iso2": "MA",
+      "raster_id": "9",
+      "percentage": 35.09
+    },
+    {
+      "value": 119100.0,
+      "iso2": "MA",
+      "raster_id": "11",
+      "percentage": 64.2
+    }
+  ],
+  [
+    {
+      "value": 431200.0,
+      "iso2": "MZ",
+      "raster_id": "6",
+      "percentage": 34.97
+    },
+    {
+      "value": 142400.0,
+      "iso2": "MZ",
+      "raster_id": "7",
+      "percentage": 11.55
+    },
+    {
+      "value": 0.0,
+      "iso2": "MZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 50500.0,
+      "iso2": "MZ",
+      "raster_id": "9",
+      "percentage": 4.1
+    },
+    {
+      "value": 609000.0,
+      "iso2": "MZ",
+      "raster_id": "11",
+      "percentage": 49.39
+    }
+  ],
+  [
+    {
+      "value": 114600.0,
+      "iso2": "MM",
+      "raster_id": "6",
+      "percentage": 15.85
+    },
+    {
+      "value": 133400.0,
+      "iso2": "MM",
+      "raster_id": "7",
+      "percentage": 18.45
+    },
+    {
+      "value": 0.0,
+      "iso2": "MM",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 121900.0,
+      "iso2": "MM",
+      "raster_id": "9",
+      "percentage": 16.86
+    },
+    {
+      "value": 353100.0,
+      "iso2": "MM",
+      "raster_id": "11",
+      "percentage": 48.84
+    }
+  ],
+  [
+    {
+      "value": 57000.0,
+      "iso2": "NA",
+      "raster_id": "6",
+      "percentage": 33.24
+    },
+    {
+      "value": 57000.0,
+      "iso2": "NA",
+      "raster_id": "7",
+      "percentage": 33.24
+    },
+    {
+      "value": 0.0,
+      "iso2": "NA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 300.0,
+      "iso2": "NA",
+      "raster_id": "9",
+      "percentage": 0.17
+    },
+    {
+      "value": 57200.0,
+      "iso2": "NA",
+      "raster_id": "11",
+      "percentage": 33.35
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 32400.0,
+      "iso2": "NP",
+      "raster_id": "6",
+      "percentage": 16.67
+    },
+    {
+      "value": 32400.0,
+      "iso2": "NP",
+      "raster_id": "7",
+      "percentage": 16.67
+    },
+    {
+      "value": 32400.0,
+      "iso2": "NP",
+      "raster_id": "8",
+      "percentage": 16.67
+    },
+    {
+      "value": 48600.0,
+      "iso2": "NP",
+      "raster_id": "9",
+      "percentage": 25.0
+    },
+    {
+      "value": 48600.0,
+      "iso2": "NP",
+      "raster_id": "11",
+      "percentage": 25.0
+    }
+  ],
+  [
+    {
+      "value": 23200.0,
+      "iso2": "NL",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 23200.0,
+      "iso2": "NL",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "NL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "NL",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "NL",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 7800.0,
+      "iso2": "NC",
+      "raster_id": "6",
+      "percentage": 19.85
+    },
+    {
+      "value": 7800.0,
+      "iso2": "NC",
+      "raster_id": "7",
+      "percentage": 19.85
+    },
+    {
+      "value": 7800.0,
+      "iso2": "NC",
+      "raster_id": "8",
+      "percentage": 19.85
+    },
+    {
+      "value": 7800.0,
+      "iso2": "NC",
+      "raster_id": "9",
+      "percentage": 19.85
+    },
+    {
+      "value": 8100.0,
+      "iso2": "NC",
+      "raster_id": "11",
+      "percentage": 20.61
+    }
+  ],
+  [
+    {
+      "value": 8100.0,
+      "iso2": "NZ",
+      "raster_id": "6",
+      "percentage": 3.69
+    },
+    {
+      "value": 29100.0,
+      "iso2": "NZ",
+      "raster_id": "7",
+      "percentage": 13.25
+    },
+    {
+      "value": 3800.0,
+      "iso2": "NZ",
+      "raster_id": "8",
+      "percentage": 1.73
+    },
+    {
+      "value": 22700.0,
+      "iso2": "NZ",
+      "raster_id": "9",
+      "percentage": 10.33
+    },
+    {
+      "value": 156000.0,
+      "iso2": "NZ",
+      "raster_id": "11",
+      "percentage": 71.01
+    }
+  ],
+  [
+    {
+      "value": 45000.0,
+      "iso2": "NI",
+      "raster_id": "6",
+      "percentage": 28.48
+    },
+    {
+      "value": 45000.0,
+      "iso2": "NI",
+      "raster_id": "7",
+      "percentage": 28.48
+    },
+    {
+      "value": 45000.0,
+      "iso2": "NI",
+      "raster_id": "8",
+      "percentage": 28.48
+    },
+    {
+      "value": 11500.0,
+      "iso2": "NI",
+      "raster_id": "9",
+      "percentage": 7.28
+    },
+    {
+      "value": 11500.0,
+      "iso2": "NI",
+      "raster_id": "11",
+      "percentage": 7.28
+    }
+  ],
+  [
+    {
+      "value": 6200.0,
+      "iso2": "NE",
+      "raster_id": "6",
+      "percentage": 23.66
+    },
+    {
+      "value": 6200.0,
+      "iso2": "NE",
+      "raster_id": "7",
+      "percentage": 23.66
+    },
+    {
+      "value": 0.0,
+      "iso2": "NE",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 3900.0,
+      "iso2": "NE",
+      "raster_id": "9",
+      "percentage": 14.89
+    },
+    {
+      "value": 9900.0,
+      "iso2": "NE",
+      "raster_id": "11",
+      "percentage": 37.79
+    }
+  ],
+  [
+    {
+      "value": 338500.0,
+      "iso2": "NG",
+      "raster_id": "6",
+      "percentage": 21.18
+    },
+    {
+      "value": 338500.0,
+      "iso2": "NG",
+      "raster_id": "7",
+      "percentage": 21.18
+    },
+    {
+      "value": 0.0,
+      "iso2": "NG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 277700.0,
+      "iso2": "NG",
+      "raster_id": "9",
+      "percentage": 17.37
+    },
+    {
+      "value": 643800.0,
+      "iso2": "NG",
+      "raster_id": "11",
+      "percentage": 40.28
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "NU",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "NU",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "NU",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "NU",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "NU",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MP",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MP",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MP",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MP",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "MP",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "NO",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 4600.0,
+      "iso2": "NO",
+      "raster_id": "7",
+      "percentage": 16.31
+    },
+    {
+      "value": 0.0,
+      "iso2": "NO",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 5100.0,
+      "iso2": "NO",
+      "raster_id": "9",
+      "percentage": 18.09
+    },
+    {
+      "value": 18500.0,
+      "iso2": "NO",
+      "raster_id": "11",
+      "percentage": 65.6
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "OM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "OM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "OM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "OM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "OM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "PK",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 2200.0,
+      "iso2": "PK",
+      "raster_id": "7",
+      "percentage": 1.23
+    },
+    {
+      "value": 0.0,
+      "iso2": "PK",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 70400.0,
+      "iso2": "PK",
+      "raster_id": "9",
+      "percentage": 39.22
+    },
+    {
+      "value": 106900.0,
+      "iso2": "PK",
+      "raster_id": "11",
+      "percentage": 59.55
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "PW",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PW",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PW",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PW",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PW",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 500.0,
+      "iso2": "PS",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "PS",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "PS",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "PS",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 500.0,
+      "iso2": "PS",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 500.0,
+      "iso2": "PA",
+      "raster_id": "6",
+      "percentage": 1.77
+    },
+    {
+      "value": 9300.0,
+      "iso2": "PA",
+      "raster_id": "7",
+      "percentage": 32.86
+    },
+    {
+      "value": 9300.0,
+      "iso2": "PA",
+      "raster_id": "8",
+      "percentage": 32.86
+    },
+    {
+      "value": 4600.0,
+      "iso2": "PA",
+      "raster_id": "9",
+      "percentage": 16.25
+    },
+    {
+      "value": 4600.0,
+      "iso2": "PA",
+      "raster_id": "11",
+      "percentage": 16.25
+    }
+  ],
+  [
+    {
+      "value": 35900.0,
+      "iso2": "PG",
+      "raster_id": "6",
+      "percentage": 35.76
+    },
+    {
+      "value": 10500.0,
+      "iso2": "PG",
+      "raster_id": "7",
+      "percentage": 10.46
+    },
+    {
+      "value": 1200.0,
+      "iso2": "PG",
+      "raster_id": "8",
+      "percentage": 1.2
+    },
+    {
+      "value": 4300.0,
+      "iso2": "PG",
+      "raster_id": "9",
+      "percentage": 4.28
+    },
+    {
+      "value": 48500.0,
+      "iso2": "PG",
+      "raster_id": "11",
+      "percentage": 48.31
+    }
+  ],
+  [
+    {
+      "value": 108700.0,
+      "iso2": "PY",
+      "raster_id": "6",
+      "percentage": 36.02
+    },
+    {
+      "value": 26000.0,
+      "iso2": "PY",
+      "raster_id": "7",
+      "percentage": 8.61
+    },
+    {
+      "value": 0.0,
+      "iso2": "PY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "PY",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 167100.0,
+      "iso2": "PY",
+      "raster_id": "11",
+      "percentage": 55.37
+    }
+  ],
+  [
+    {
+      "value": 167100.0,
+      "iso2": "PE",
+      "raster_id": "6",
+      "percentage": 73.97
+    },
+    {
+      "value": 11200.0,
+      "iso2": "PE",
+      "raster_id": "7",
+      "percentage": 4.96
+    },
+    {
+      "value": 0.0,
+      "iso2": "PE",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 4100.0,
+      "iso2": "PE",
+      "raster_id": "9",
+      "percentage": 1.81
+    },
+    {
+      "value": 43500.0,
+      "iso2": "PE",
+      "raster_id": "11",
+      "percentage": 19.26
+    }
+  ],
+  [
+    {
+      "value": 109500.0,
+      "iso2": "PH",
+      "raster_id": "6",
+      "percentage": 26.6
+    },
+    {
+      "value": 9600.0,
+      "iso2": "PH",
+      "raster_id": "7",
+      "percentage": 2.33
+    },
+    {
+      "value": 0.0,
+      "iso2": "PH",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 90900.0,
+      "iso2": "PH",
+      "raster_id": "9",
+      "percentage": 22.08
+    },
+    {
+      "value": 201700.0,
+      "iso2": "PH",
+      "raster_id": "11",
+      "percentage": 48.99
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 98300.0,
+      "iso2": "PL",
+      "raster_id": "6",
+      "percentage": 13.74
+    },
+    {
+      "value": 98300.0,
+      "iso2": "PL",
+      "raster_id": "7",
+      "percentage": 13.74
+    },
+    {
+      "value": 0.0,
+      "iso2": "PL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 259500.0,
+      "iso2": "PL",
+      "raster_id": "9",
+      "percentage": 36.26
+    },
+    {
+      "value": 259500.0,
+      "iso2": "PL",
+      "raster_id": "11",
+      "percentage": 36.26
+    }
+  ],
+  [
+    {
+      "value": 50700.0,
+      "iso2": "PT",
+      "raster_id": "6",
+      "percentage": 25.67
+    },
+    {
+      "value": 50700.0,
+      "iso2": "PT",
+      "raster_id": "7",
+      "percentage": 25.67
+    },
+    {
+      "value": 100.0,
+      "iso2": "PT",
+      "raster_id": "8",
+      "percentage": 0.05
+    },
+    {
+      "value": 100.0,
+      "iso2": "PT",
+      "raster_id": "9",
+      "percentage": 0.05
+    },
+    {
+      "value": 95900.0,
+      "iso2": "PT",
+      "raster_id": "11",
+      "percentage": 48.56
+    }
+  ],
+  [
+    {
+      "value": 95900.0,
+      "iso2": "PR",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 95900.0,
+      "iso2": "PR",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "PR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "PR",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "PR",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "QA",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "QA",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "QA",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "QA",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "QA",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "RO",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 9100.0,
+      "iso2": "RO",
+      "raster_id": "7",
+      "percentage": 3.45
+    },
+    {
+      "value": 9100.0,
+      "iso2": "RO",
+      "raster_id": "8",
+      "percentage": 3.45
+    },
+    {
+      "value": 122800.0,
+      "iso2": "RO",
+      "raster_id": "9",
+      "percentage": 46.55
+    },
+    {
+      "value": 122800.0,
+      "iso2": "RO",
+      "raster_id": "11",
+      "percentage": 46.55
+    }
+  ],
+  [
+    {
+      "value": 1852600.0,
+      "iso2": "RU",
+      "raster_id": "6",
+      "percentage": 17.48
+    },
+    {
+      "value": 1093400.0,
+      "iso2": "RU",
+      "raster_id": "7",
+      "percentage": 10.32
+    },
+    {
+      "value": 1531200.0,
+      "iso2": "RU",
+      "raster_id": "8",
+      "percentage": 14.45
+    },
+    {
+      "value": 940300.0,
+      "iso2": "RU",
+      "raster_id": "9",
+      "percentage": 8.87
+    },
+    {
+      "value": 5178200.0,
+      "iso2": "RU",
+      "raster_id": "11",
+      "percentage": 48.87
+    }
+  ],
+  [
+    {
+      "value": 8000.0,
+      "iso2": "RW",
+      "raster_id": "6",
+      "percentage": 14.93
+    },
+    {
+      "value": 8000.0,
+      "iso2": "RW",
+      "raster_id": "7",
+      "percentage": 14.93
+    },
+    {
+      "value": 8000.0,
+      "iso2": "RW",
+      "raster_id": "8",
+      "percentage": 14.93
+    },
+    {
+      "value": 8000.0,
+      "iso2": "RW",
+      "raster_id": "9",
+      "percentage": 14.93
+    },
+    {
+      "value": 21600.0,
+      "iso2": "RW",
+      "raster_id": "11",
+      "percentage": 40.3
+    }
+  ],
+  [
+    {
+      "value": 21600.0,
+      "iso2": "BL",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 21600.0,
+      "iso2": "BL",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 21600.0,
+      "iso2": "BL",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 21600.0,
+      "iso2": "BL",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 21600.0,
+      "iso2": "BL",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 21600.0,
+      "iso2": "SH",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SH",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SH",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SH",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SH",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "KN",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KN",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KN",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KN",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "KN",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "LC",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LC",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LC",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LC",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "LC",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "MF",
+      "raster_id": "6",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "PM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "PM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "VC",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VC",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VC",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VC",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "VC",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "WS",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "WS",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "WS",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "WS",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "WS",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "SM",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SM",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SM",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SM",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "SM",
+      "raster_id": "11",
+      "percentage": 100.0
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "ST",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "ST",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "ST",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "ST",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "ST",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "SA",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SA",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SA",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SA",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 59900.0,
+      "iso2": "SN",
+      "raster_id": "6",
+      "percentage": 75.54
+    },
+    {
+      "value": 0.0,
+      "iso2": "SN",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SN",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 9700.0,
+      "iso2": "SN",
+      "raster_id": "9",
+      "percentage": 12.23
+    },
+    {
+      "value": 9700.0,
+      "iso2": "SN",
+      "raster_id": "11",
+      "percentage": 12.23
+    }
+  ],
+  [
+    {
+      "value": 31100.0,
+      "iso2": "RS",
+      "raster_id": "6",
+      "percentage": 22.34
+    },
+    {
+      "value": 31100.0,
+      "iso2": "RS",
+      "raster_id": "7",
+      "percentage": 22.34
+    },
+    {
+      "value": 0.0,
+      "iso2": "RS",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "RS",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 77000.0,
+      "iso2": "RS",
+      "raster_id": "11",
+      "percentage": 55.32
+    }
+  ],
+  [
+    {
+      "value": 77000.0,
+      "iso2": "SC",
+      "raster_id": "6",
+      "percentage": 25.0
+    },
+    {
+      "value": 77000.0,
+      "iso2": "SC",
+      "raster_id": "7",
+      "percentage": 25.0
+    },
+    {
+      "value": 77000.0,
+      "iso2": "SC",
+      "raster_id": "8",
+      "percentage": 25.0
+    },
+    {
+      "value": 77000.0,
+      "iso2": "SC",
+      "raster_id": "9",
+      "percentage": 25.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SC",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "SL",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SL",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 8900.0,
+      "iso2": "SL",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 8900.0,
+      "iso2": "SL",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 8900.0,
+      "iso2": "SG",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 8900.0,
+      "iso2": "SG",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SG",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SG",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "SX",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SX",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SX",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SX",
+      "raster_id": "9",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 13700.0,
+      "iso2": "SK",
+      "raster_id": "6",
+      "percentage": 14.72
+    },
+    {
+      "value": 13700.0,
+      "iso2": "SK",
+      "raster_id": "7",
+      "percentage": 14.72
+    },
+    {
+      "value": 13700.0,
+      "iso2": "SK",
+      "raster_id": "8",
+      "percentage": 14.72
+    },
+    {
+      "value": 26000.0,
+      "iso2": "SK",
+      "raster_id": "9",
+      "percentage": 27.93
+    },
+    {
+      "value": 26000.0,
+      "iso2": "SK",
+      "raster_id": "11",
+      "percentage": 27.93
+    }
+  ],
+  [
+    {
+      "value": 26000.0,
+      "iso2": "SI",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 26000.0,
+      "iso2": "SI",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SI",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SI",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SI",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "SB",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SB",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SB",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SB",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "SB",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 6100.0,
+      "iso2": "SO",
+      "raster_id": "6",
+      "percentage": 7.43
+    },
+    {
+      "value": 23100.0,
+      "iso2": "SO",
+      "raster_id": "7",
+      "percentage": 28.14
+    },
+    {
+      "value": 23100.0,
+      "iso2": "SO",
+      "raster_id": "8",
+      "percentage": 28.14
+    },
+    {
+      "value": 400.0,
+      "iso2": "SO",
+      "raster_id": "9",
+      "percentage": 0.49
+    },
+    {
+      "value": 29400.0,
+      "iso2": "SO",
+      "raster_id": "11",
+      "percentage": 35.81
+    }
+  ],
+  [
+    {
+      "value": 29400.0,
+      "iso2": "ZA",
+      "raster_id": "6",
+      "percentage": 6.21
+    },
+    {
+      "value": 4600.0,
+      "iso2": "ZA",
+      "raster_id": "7",
+      "percentage": 0.97
+    },
+    {
+      "value": 0.0,
+      "iso2": "ZA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 69100.0,
+      "iso2": "ZA",
+      "raster_id": "9",
+      "percentage": 14.59
+    },
+    {
+      "value": 370400.0,
+      "iso2": "ZA",
+      "raster_id": "11",
+      "percentage": 78.23
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GS",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GS",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GS",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GS",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "GS",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "SS",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 2200.0,
+      "iso2": "SS",
+      "raster_id": "7",
+      "percentage": 0.62
+    },
+    {
+      "value": 2200.0,
+      "iso2": "SS",
+      "raster_id": "8",
+      "percentage": 0.62
+    },
+    {
+      "value": 17100.0,
+      "iso2": "SS",
+      "raster_id": "9",
+      "percentage": 4.83
+    },
+    {
+      "value": 332400.0,
+      "iso2": "SS",
+      "raster_id": "11",
+      "percentage": 93.92
+    }
+  ],
+  [
+    {
+      "value": 254400.0,
+      "iso2": "ES",
+      "raster_id": "6",
+      "percentage": 22.5
+    },
+    {
+      "value": 67000.0,
+      "iso2": "ES",
+      "raster_id": "7",
+      "percentage": 5.93
+    },
+    {
+      "value": 67000.0,
+      "iso2": "ES",
+      "raster_id": "8",
+      "percentage": 5.93
+    },
+    {
+      "value": 220600.0,
+      "iso2": "ES",
+      "raster_id": "9",
+      "percentage": 19.51
+    },
+    {
+      "value": 521600.0,
+      "iso2": "ES",
+      "raster_id": "11",
+      "percentage": 46.13
+    }
+  ],
+  [
+    {
+      "value": 22100.0,
+      "iso2": "LK",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 22100.0,
+      "iso2": "LK",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LK",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LK",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "LK",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 178600.0,
+      "iso2": "SD",
+      "raster_id": "6",
+      "percentage": 42.44
+    },
+    {
+      "value": 0.0,
+      "iso2": "SD",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SD",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 33000.0,
+      "iso2": "SD",
+      "raster_id": "9",
+      "percentage": 7.84
+    },
+    {
+      "value": 209200.0,
+      "iso2": "SD",
+      "raster_id": "11",
+      "percentage": 49.71
+    }
+  ],
+  [
+    {
+      "value": 800.0,
+      "iso2": "SR",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 800.0,
+      "iso2": "SR",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SR",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SR",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 14500.0,
+      "iso2": "SZ",
+      "raster_id": "6",
+      "percentage": 29.9
+    },
+    {
+      "value": 14500.0,
+      "iso2": "SZ",
+      "raster_id": "7",
+      "percentage": 29.9
+    },
+    {
+      "value": 14500.0,
+      "iso2": "SZ",
+      "raster_id": "8",
+      "percentage": 29.9
+    },
+    {
+      "value": 2500.0,
+      "iso2": "SZ",
+      "raster_id": "9",
+      "percentage": 5.15
+    },
+    {
+      "value": 2500.0,
+      "iso2": "SZ",
+      "raster_id": "11",
+      "percentage": 5.15
+    }
+  ],
+  [
+    {
+      "value": 2500.0,
+      "iso2": "SE",
+      "raster_id": "6",
+      "percentage": 1.44
+    },
+    {
+      "value": 29300.0,
+      "iso2": "SE",
+      "raster_id": "7",
+      "percentage": 16.91
+    },
+    {
+      "value": 0.0,
+      "iso2": "SE",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 43200.0,
+      "iso2": "SE",
+      "raster_id": "9",
+      "percentage": 24.93
+    },
+    {
+      "value": 98300.0,
+      "iso2": "SE",
+      "raster_id": "11",
+      "percentage": 56.72
+    }
+  ],
+  [
+    {
+      "value": 10700.0,
+      "iso2": "CH",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 10700.0,
+      "iso2": "CH",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CH",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CH",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "CH",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 11900.0,
+      "iso2": "SY",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 11900.0,
+      "iso2": "SY",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SY",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SY",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "SY",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 7200.0,
+      "iso2": "TW",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 7200.0,
+      "iso2": "TW",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TW",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TW",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TW",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TJ",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TJ",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TJ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 5200.0,
+      "iso2": "TJ",
+      "raster_id": "9",
+      "percentage": 50.0
+    },
+    {
+      "value": 5200.0,
+      "iso2": "TJ",
+      "raster_id": "11",
+      "percentage": 50.0
+    }
+  ],
+  [
+    {
+      "value": 528800.0,
+      "iso2": "TZ",
+      "raster_id": "6",
+      "percentage": 40.62
+    },
+    {
+      "value": 84200.0,
+      "iso2": "TZ",
+      "raster_id": "7",
+      "percentage": 6.47
+    },
+    {
+      "value": 0.0,
+      "iso2": "TZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TZ",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 688900.0,
+      "iso2": "TZ",
+      "raster_id": "11",
+      "percentage": 52.91
+    }
+  ],
+  [
+    {
+      "value": 184500.0,
+      "iso2": "TH",
+      "raster_id": "6",
+      "percentage": 21.42
+    },
+    {
+      "value": 88200.0,
+      "iso2": "TH",
+      "raster_id": "7",
+      "percentage": 10.24
+    },
+    {
+      "value": 0.0,
+      "iso2": "TH",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 166700.0,
+      "iso2": "TH",
+      "raster_id": "9",
+      "percentage": 19.35
+    },
+    {
+      "value": 422100.0,
+      "iso2": "TH",
+      "raster_id": "11",
+      "percentage": 49.0
+    }
+  ],
+  [
+    {
+      "value": 4900.0,
+      "iso2": "TL",
+      "raster_id": "6",
+      "percentage": 100.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TL",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TL",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TL",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "TL",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TG",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 11300.0,
+      "iso2": "TG",
+      "raster_id": "7",
+      "percentage": 13.58
+    },
+    {
+      "value": 11300.0,
+      "iso2": "TG",
+      "raster_id": "8",
+      "percentage": 13.58
+    },
+    {
+      "value": 11300.0,
+      "iso2": "TG",
+      "raster_id": "9",
+      "percentage": 13.58
+    },
+    {
+      "value": 49300.0,
+      "iso2": "TG",
+      "raster_id": "11",
+      "percentage": 59.25
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TO",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TO",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TO",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TO",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TO",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TT",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "TT",
+      "raster_id": "7",
+      "percentage": 25.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "TT",
+      "raster_id": "8",
+      "percentage": 25.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "TT",
+      "raster_id": "9",
+      "percentage": 25.0
+    },
+    {
+      "value": 200.0,
+      "iso2": "TT",
+      "raster_id": "11",
+      "percentage": 25.0
+    }
+  ],
+  [
+    {
+      "value": 200.0,
+      "iso2": "TN",
+      "raster_id": "6",
+      "percentage": 0.52
+    },
+    {
+      "value": 300.0,
+      "iso2": "TN",
+      "raster_id": "7",
+      "percentage": 0.79
+    },
+    {
+      "value": 300.0,
+      "iso2": "TN",
+      "raster_id": "8",
+      "percentage": 0.79
+    },
+    {
+      "value": 18700.0,
+      "iso2": "TN",
+      "raster_id": "9",
+      "percentage": 48.95
+    },
+    {
+      "value": 18700.0,
+      "iso2": "TN",
+      "raster_id": "11",
+      "percentage": 48.95
+    }
+  ],
+  [
+    {
+      "value": 274100.0,
+      "iso2": "TR",
+      "raster_id": "6",
+      "percentage": 27.8
+    },
+    {
+      "value": 81700.0,
+      "iso2": "TR",
+      "raster_id": "7",
+      "percentage": 8.29
+    },
+    {
+      "value": 0.0,
+      "iso2": "TR",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 146800.0,
+      "iso2": "TR",
+      "raster_id": "9",
+      "percentage": 14.89
+    },
+    {
+      "value": 483400.0,
+      "iso2": "TR",
+      "raster_id": "11",
+      "percentage": 49.03
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TM",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TM",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TM",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TM",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TM",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "TC",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TC",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TC",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TC",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "TC",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 96100.0,
+      "iso2": "UG",
+      "raster_id": "6",
+      "percentage": 50.0
+    },
+    {
+      "value": 96100.0,
+      "iso2": "UG",
+      "raster_id": "7",
+      "percentage": 50.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "UG",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "UG",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "UG",
+      "raster_id": "11",
+      "percentage": 0.0
+    }
+  ],
+  [
+    {
+      "value": 282000.0,
+      "iso2": "UA",
+      "raster_id": "6",
+      "percentage": 26.01
+    },
+    {
+      "value": 10700.0,
+      "iso2": "UA",
+      "raster_id": "7",
+      "percentage": 0.99
+    },
+    {
+      "value": 0.0,
+      "iso2": "UA",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 249100.0,
+      "iso2": "UA",
+      "raster_id": "9",
+      "percentage": 22.97
+    },
+    {
+      "value": 542600.0,
+      "iso2": "UA",
+      "raster_id": "11",
+      "percentage": 50.04
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "AE",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AE",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AE",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AE",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "AE",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "GB",
+      "raster_id": "6",
+      "percentage": 0.0
+    },
+    {
+      "value": 18300.0,
+      "iso2": "GB",
+      "raster_id": "7",
+      "percentage": 3.7
+    },
+    {
+      "value": 0.0,
+      "iso2": "GB",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 145300.0,
+      "iso2": "GB",
+      "raster_id": "9",
+      "percentage": 29.36
+    },
+    {
+      "value": 331300.0,
+      "iso2": "GB",
+      "raster_id": "11",
+      "percentage": 66.94
+    }
+  ],
+  [
+    {
+      "value": 1348600.0,
+      "iso2": "US",
+      "raster_id": "6",
+      "percentage": 23.32
+    },
+    {
+      "value": 414400.0,
+      "iso2": "US",
+      "raster_id": "7",
+      "percentage": 7.17
+    },
+    {
+      "value": 165100.0,
+      "iso2": "US",
+      "raster_id": "8",
+      "percentage": 2.86
+    },
+    {
+      "value": 1024500.0,
+      "iso2": "US",
+      "raster_id": "9",
+      "percentage": 17.72
+    },
+    {
+      "value": 2829600.0,
+      "iso2": "US",
+      "raster_id": "11",
+      "percentage": 48.94
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 155800.0,
+      "iso2": "UY",
+      "raster_id": "6",
+      "percentage": 31.46
+    },
+    {
+      "value": 155800.0,
+      "iso2": "UY",
+      "raster_id": "7",
+      "percentage": 31.46
+    },
+    {
+      "value": 155800.0,
+      "iso2": "UY",
+      "raster_id": "8",
+      "percentage": 31.46
+    },
+    {
+      "value": 13900.0,
+      "iso2": "UY",
+      "raster_id": "9",
+      "percentage": 2.81
+    },
+    {
+      "value": 13900.0,
+      "iso2": "UY",
+      "raster_id": "11",
+      "percentage": 2.81
+    }
+  ],
+  [
+    {
+      "value": 13900.0,
+      "iso2": "UZ",
+      "raster_id": "6",
+      "percentage": 75.54
+    },
+    {
+      "value": 0.0,
+      "iso2": "UZ",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "UZ",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 1400.0,
+      "iso2": "UZ",
+      "raster_id": "9",
+      "percentage": 7.61
+    },
+    {
+      "value": 3100.0,
+      "iso2": "UZ",
+      "raster_id": "11",
+      "percentage": 16.85
+    }
+  ],
+  [
+    {
+      "value": 1400.0,
+      "iso2": "VU",
+      "raster_id": "6",
+      "percentage": 19.44
+    },
+    {
+      "value": 1400.0,
+      "iso2": "VU",
+      "raster_id": "7",
+      "percentage": 19.44
+    },
+    {
+      "value": 1400.0,
+      "iso2": "VU",
+      "raster_id": "8",
+      "percentage": 19.44
+    },
+    {
+      "value": 1400.0,
+      "iso2": "VU",
+      "raster_id": "9",
+      "percentage": 19.44
+    },
+    {
+      "value": 1600.0,
+      "iso2": "VU",
+      "raster_id": "11",
+      "percentage": 22.22
+    }
+  ],
+  [
+    {
+      "value": 1600.0,
+      "iso2": "VE",
+      "raster_id": "6",
+      "percentage": 0.48
+    },
+    {
+      "value": 44500.0,
+      "iso2": "VE",
+      "raster_id": "7",
+      "percentage": 13.34
+    },
+    {
+      "value": 1400.0,
+      "iso2": "VE",
+      "raster_id": "8",
+      "percentage": 0.42
+    },
+    {
+      "value": 18400.0,
+      "iso2": "VE",
+      "raster_id": "9",
+      "percentage": 5.52
+    },
+    {
+      "value": 267700.0,
+      "iso2": "VE",
+      "raster_id": "11",
+      "percentage": 80.25
+    }
+  ],
+  [
+    {
+      "value": 83500.0,
+      "iso2": "VN",
+      "raster_id": "6",
+      "percentage": 18.65
+    },
+    {
+      "value": 41000.0,
+      "iso2": "VN",
+      "raster_id": "7",
+      "percentage": 9.16
+    },
+    {
+      "value": 0.0,
+      "iso2": "VN",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 104100.0,
+      "iso2": "VN",
+      "raster_id": "9",
+      "percentage": 23.25
+    },
+    {
+      "value": 219200.0,
+      "iso2": "VN",
+      "raster_id": "11",
+      "percentage": 48.95
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 100.0,
+      "iso2": "VI",
+      "raster_id": "6",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "VI",
+      "raster_id": "7",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "VI",
+      "raster_id": "8",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "VI",
+      "raster_id": "9",
+      "percentage": 20.0
+    },
+    {
+      "value": 100.0,
+      "iso2": "VI",
+      "raster_id": "11",
+      "percentage": 20.0
+    }
+  ],
+  [
+
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "EH",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "EH",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "EH",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "EH",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "EH",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 0.0,
+      "iso2": "YE",
+      "raster_id": "6",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "YE",
+      "raster_id": "7",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "YE",
+      "raster_id": "8",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "YE",
+      "raster_id": "9",
+      "percentage": -999
+    },
+    {
+      "value": 0.0,
+      "iso2": "YE",
+      "raster_id": "11",
+      "percentage": -999
+    }
+  ],
+  [
+    {
+      "value": 367400.0,
+      "iso2": "ZM",
+      "raster_id": "6",
+      "percentage": 49.34
+    },
+    {
+      "value": 0.0,
+      "iso2": "ZM",
+      "raster_id": "7",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ZM",
+      "raster_id": "8",
+      "percentage": 0.0
+    },
+    {
+      "value": 0.0,
+      "iso2": "ZM",
+      "raster_id": "9",
+      "percentage": 0.0
+    },
+    {
+      "value": 377200.0,
+      "iso2": "ZM",
+      "raster_id": "11",
+      "percentage": 50.66
+    }
+  ],
+  [
+    {
+      "value": 216900.0,
+      "iso2": "ZW",
+      "raster_id": "6",
+      "percentage": 42.84
+    },
+    {
+      "value": 2600.0,
+      "iso2": "ZW",
+      "raster_id": "7",
+      "percentage": 0.51
+    },
+    {
+      "value": 2600.0,
+      "iso2": "ZW",
+      "raster_id": "8",
+      "percentage": 0.51
+    },
+    {
+      "value": 36900.0,
+      "iso2": "ZW",
+      "raster_id": "9",
+      "percentage": 7.29
+    },
+    {
+      "value": 247300.0,
+      "iso2": "ZW",
+      "raster_id": "11",
+      "percentage": 48.84
+    }
+  ]
+]
