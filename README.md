@@ -25,7 +25,7 @@ ruby get_raster_stats.rb -o percentage -i 6,7,8,9,11
 # 13 = partly deforested
 # 14 = deforested
 # 15 = no value
-ruby get_raster_stats.rb -o percentage -i 10,12,13,14,15 -f forests
+ruby get_raster_stats.rb -o percentage -i 10,12,13,14,15 -f forest_status
 
 # To get the total tonnes of carbon for Canada:
 # 16 = carbon (it is in mollewide!)
