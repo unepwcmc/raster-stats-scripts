@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require handlebars
+//= require lodash
+//= require backbone
 //= require_tree .
