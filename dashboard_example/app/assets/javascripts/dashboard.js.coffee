@@ -16,6 +16,7 @@ $(document).ready( ->
 
   applicatin_config =
     ppe_api_url: 'http://localhost:3500/api2/countries'
+    sapi_api_url: 'http://localhost:3600/api/v1/stats'
     country: 'GB' #tmp
 
   router = new dashboard.Router applicatin_config
@@ -32,18 +33,23 @@ dashboard.Router = Backbone.Router.extend
   initialize: (application_config) ->
     @config = 
       promised_ppe_data: $.when(
-        @fetchData application_config.ppe_api_url, application_config.country
+        @fetchData application_config.ppe_api_url, application_config.country, yes
+      )
+      promised_sapi_data: $.when(
+        @fetchData application_config.sapi_api_url, application_config.country
       )
 
   app: ->
     view = new dashboard.AppView @config
     
-  fetchData: (url, country) ->
+  fetchData: (url, country, query_param) ->
+    data = if query_param then {iso: country} else null
+    url = if query_param then url else url + "/#{country}"
     $.ajax(
       type: 'GET'
       dataType: 'json'
       url: url
-      data: {iso: country}
+      data: data
       xhrFields:
         withCredentials: true
     )
@@ -55,6 +61,7 @@ dashboard.AppView = Backbone.View.extend
 
   initialize: (config) ->
     @ppeView = new dashboard.PPEView config.promised_ppe_data
+    @sapiView = new dashboard.SAPIView config.promised_sapi_data
   
   render: ->
     @$el.append @ppeView.$el
@@ -73,7 +80,22 @@ dashboard.PPEView = Backbone.View.extend
     )
 
   render: (data) ->
-    # Compile the template using Handlebars
     template = Handlebars.compile( $("#ppe-template").html() )
-    # Load the compiled HTML into the Backbone "el"
     @$el.html( template({data: data, title: 'Protected Planet Data:'}) )
+
+
+dashboard.SAPIView = Backbone.View.extend
+
+  el: '#sapi'
+
+  template: _.template( $('#sapi-template').html() )
+
+  initialize: (promised_data) ->
+    promised_data.then(
+      (data) => @render data,
+      (err) -> console.log err
+    )
+
+  render: (data) ->
+    template = Handlebars.compile( $("#sapi-template").html() )
+    @$el.html( template({data: data, title: 'SAPI Data:'}) )

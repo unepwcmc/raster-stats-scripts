@@ -1,12 +1,38 @@
 
 <div id="app">
-  <div id="ppe"><div>
+  <div id="ppe"></div>
+  <div id="sapi"></div>
 </div>
 
 <script type="text/template" id="ppe-template">
   <h4>{{ title }}<h4>
   <ul>
     {{# each data }}
+      <li>{{@key}}: {{this}}</li>
+    {{/each}}
+  </ul>
+</script>
+
+<script type="text/template" id="sapi-template">
+  <h4>{{ title }}<h4>
+  <p>Total listed species</p>
+  <ul>
+    <li>Cites EU</li>
+    <ul>
+    {{# each data.species_results.cites_eu }}
+      <li>{{this.name}}: {{this.count}}</li>
+    {{/each}}
+    </ul>
+    <li>CMS</li>
+    <ul>
+    {{# each data.species_results.cms }}
+      <li>{{this.name}}: {{this.count}}</li>
+    {{/each}}
+    </ul>
+  </ul>
+  <p>Total traded number of species</p>
+  <ul>
+    {{# each data.trade_results }}
       <li>{{@key}}: {{this}}</li>
     {{/each}}
   </ul>
