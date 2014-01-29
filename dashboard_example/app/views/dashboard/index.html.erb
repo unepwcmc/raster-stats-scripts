@@ -25,9 +25,13 @@
     </ul>
     <li>CMS</li>
     <ul>
-    {{# each data.species_results.cms }}
-      <li>{{this.name}}: {{this.count}}</li>
-    {{/each}}
+    {{# if data.species_results.cms }}
+      {{# each data.species_results.cms }}
+        <li>{{this.name}}: {{this.count}}</li>
+      {{/each}}
+    {{else}}
+      <li>No CMS listings for {{ country }}</li>
+    {{/if}}
     </ul>
   </ul>
   <p>Total traded number of species</p>
