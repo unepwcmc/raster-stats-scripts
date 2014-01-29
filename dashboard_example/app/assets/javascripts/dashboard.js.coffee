@@ -3,27 +3,16 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 dashboard = {}
-
 $.support.cors = true
 
-# http://stackoverflow.com/a/7515161/1932827
-_.templateSettings = {
-  interpolate: /\{\{\=(.+?)\}\}/g,
-  evaluate: /\{\{(.+?)\}\}/g
-};
-
 $(document).ready( ->
-
   applicatin_config =
     ppe_api_url: 'http://localhost:3500/api2/countries'
     sapi_api_url: 'http://localhost:3600/api/v1/stats'
     country: 'GB' #tmp
-
   router = new dashboard.Router applicatin_config
   Backbone.history.start()
-
 )
-
 
 dashboard.Router = Backbone.Router.extend
 
@@ -70,7 +59,6 @@ dashboard.AppView = Backbone.View.extend
 dashboard.PPEView = Backbone.View.extend
 
   el: '#ppe'
-
   template: _.template( $('#ppe-template').html() )
 
   initialize: (promised_data) ->
@@ -87,7 +75,6 @@ dashboard.PPEView = Backbone.View.extend
 dashboard.SAPIView = Backbone.View.extend
 
   el: '#sapi'
-
   template: _.template( $('#sapi-template').html() )
 
   initialize: (promised_data) ->
