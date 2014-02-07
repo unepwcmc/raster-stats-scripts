@@ -7,8 +7,8 @@ $.support.cors = true
 
 $(document).ready( ->
   applicatin_config =
-    ppe_api_url: 'http://localhost:3500/api2/countries'
-    sapi_api_url: 'http://localhost:3600/api/v1/stats'
+    ppe_api_url: 'http://www.protectedplanet.net/api2/countries'
+    sapi_api_url: 'http://localhost:3600/api/v1/stats' #tmp
     country: 'GB' #tmp
   router = new dashboard.Router applicatin_config
   Backbone.history.start()
@@ -20,26 +20,26 @@ dashboard.Router = Backbone.Router.extend
     '': 'app'
 
   initialize: (application_config) ->
+    country = application_config.country
     @config = 
       promised_ppe_data: $.when(
-        @fetchData application_config.ppe_api_url, application_config.country, yes
+        @fetchData application_config.ppe_api_url, {iso: country}
       )
       promised_sapi_data: $.when(
-        @fetchData application_config.sapi_api_url, application_config.country
+        @fetchData application_config
+          .sapi_api_url + "/#{country}", {kingdom: 'Animalia'}
       )
       country: application_config.country
 
   app: ->
     view = new dashboard.AppView @config
     
-  fetchData: (url, country, query_param) ->
-    data = if query_param then {iso: country} else null
-    url = if query_param then url else url + "/#{country}"
+  fetchData: (url, params) ->
     $.ajax(
       type: 'GET'
       dataType: 'json'
       url: url
-      data: data
+      data: params
       xhrFields:
         withCredentials: true
     )
@@ -98,7 +98,7 @@ dashboard.SAPIView = Backbone.View.extend
 
   getTopResults: (data, top) ->
     top ||= 5
-    _.each(data.species_results, (results, taxonomy) ->
+    _.each(data.taxon_concept_stats.species, (results, taxonomy) ->
       sorted_results = _.sortBy(results, (o) -> o.count ).reverse()
       top_results = sorted_results[...top]
       other_results = sorted_results[top..]
@@ -107,8 +107,7 @@ dashboard.SAPIView = Backbone.View.extend
         other_result.count += o.count
       )
       top_results.push other_result
-      # return empty if no counts at all
       if top_results[0].count == 0 then top_results = []
-      data.species_results[taxonomy] = top_results
+      data.taxon_concept_stats.species[taxonomy] = top_results
     )
     data

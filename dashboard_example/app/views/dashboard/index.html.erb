@@ -19,14 +19,14 @@
   <ul>
     <li>Cites EU</li>
     <ul>
-    {{# each data.species_results.cites_eu }}
+    {{# each data.taxon_concept_stats.species.cites_eu }}
       <li>{{this.name}}: {{this.count}}</li>
     {{/each}}
     </ul>
     <li>CMS</li>
     <ul>
-    {{# if data.species_results.cms }}
-      {{# each data.species_results.cms }}
+    {{# if data.taxon_concept_stats.species.cms }}
+      {{# each data.taxon_concept_stats.species.cms }}
         <li>{{this.name}}: {{this.count}}</li>
       {{/each}}
     {{else}}
@@ -34,9 +34,10 @@
     {{/if}}
     </ul>
   </ul>
+
   <p>Total traded number of species</p>
   <ul>
-    {{# each data.trade_results }}
+    {{# each data.taxon_concept_stats.trade_results }}
       <li>{{@key}}: {{this}}</li>
     {{/each}}
   </ul>
